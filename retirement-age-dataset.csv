@@ -1,0 +1,1176 @@
+cou,country,ind,indicator,gender,year,average_age
+AUS,Australia,PEN19A,"Effective labour market exit age, men",men,1970,65.7
+AUS,Australia,PEN19A,"Effective labour market exit age, men",men,1980,62.7
+AUS,Australia,PEN19A,"Effective labour market exit age, men",men,1990,61.1
+AUS,Australia,PEN19A,"Effective labour market exit age, men",men,2000,60.6
+AUS,Australia,PEN19A,"Effective labour market exit age, men",men,2005,62.1
+AUS,Australia,PEN19A,"Effective labour market exit age, men",men,2010,63
+AUS,Australia,PEN19A,"Effective labour market exit age, men",men,2015,63.8
+AUS,Australia,PEN19A,"Effective labour market exit age, men",men,2016,63.6
+AUS,Australia,PEN19A,"Effective labour market exit age, men",men,2017,64.1
+AUS,Australia,PEN19A,"Effective labour market exit age, men",men,2018,63.7
+AUS,Australia,PEN19A,"Effective labour market exit age, men",men,2019,64.1
+AUS,Australia,PEN19A,"Effective labour market exit age, men",men,2020,64.1
+AUS,Australia,PEN19B,"Effective labour market exit age, women",women,1970,63.7
+AUS,Australia,PEN19B,"Effective labour market exit age, women",women,1980,58.7
+AUS,Australia,PEN19B,"Effective labour market exit age, women",women,1990,59.3
+AUS,Australia,PEN19B,"Effective labour market exit age, women",women,2000,58.7
+AUS,Australia,PEN19B,"Effective labour market exit age, women",women,2005,60.3
+AUS,Australia,PEN19B,"Effective labour market exit age, women",women,2010,61.7
+AUS,Australia,PEN19B,"Effective labour market exit age, women",women,2015,62.1
+AUS,Australia,PEN19B,"Effective labour market exit age, women",women,2016,62.5
+AUS,Australia,PEN19B,"Effective labour market exit age, women",women,2017,63.1
+AUS,Australia,PEN19B,"Effective labour market exit age, women",women,2018,63.2
+AUS,Australia,PEN19B,"Effective labour market exit age, women",women,2019,63.5
+AUS,Australia,PEN19B,"Effective labour market exit age, women",women,2020,63.3
+AUT,Austria,PEN19A,"Effective labour market exit age, men",men,2000,59.2
+AUT,Austria,PEN19A,"Effective labour market exit age, men",men,2005,57.7
+AUT,Austria,PEN19A,"Effective labour market exit age, men",men,2010,58.8
+AUT,Austria,PEN19A,"Effective labour market exit age, men",men,2015,60.5
+AUT,Austria,PEN19A,"Effective labour market exit age, men",men,2016,60.6
+AUT,Austria,PEN19A,"Effective labour market exit age, men",men,2017,61.6
+AUT,Austria,PEN19A,"Effective labour market exit age, men",men,2018,61.8
+AUT,Austria,PEN19A,"Effective labour market exit age, men",men,2019,62.6
+AUT,Austria,PEN19A,"Effective labour market exit age, men",men,2020,62
+AUT,Austria,PEN19B,"Effective labour market exit age, women",women,2000,57.9
+AUT,Austria,PEN19B,"Effective labour market exit age, women",women,2005,57.2
+AUT,Austria,PEN19B,"Effective labour market exit age, women",women,2010,57.3
+AUT,Austria,PEN19B,"Effective labour market exit age, women",women,2015,59.3
+AUT,Austria,PEN19B,"Effective labour market exit age, women",women,2016,59.6
+AUT,Austria,PEN19B,"Effective labour market exit age, women",women,2017,60.1
+AUT,Austria,PEN19B,"Effective labour market exit age, women",women,2018,60
+AUT,Austria,PEN19B,"Effective labour market exit age, women",women,2019,60.4
+AUT,Austria,PEN19B,"Effective labour market exit age, women",women,2020,60.7
+BEL,Belgium,PEN19A,"Effective labour market exit age, men",men,1970,62.8
+BEL,Belgium,PEN19A,"Effective labour market exit age, men",men,1980,60.7
+BEL,Belgium,PEN19A,"Effective labour market exit age, men",men,1990,57.8
+BEL,Belgium,PEN19A,"Effective labour market exit age, men",men,2000,57.9
+BEL,Belgium,PEN19A,"Effective labour market exit age, men",men,2005,58.1
+BEL,Belgium,PEN19A,"Effective labour market exit age, men",men,2010,59.6
+BEL,Belgium,PEN19A,"Effective labour market exit age, men",men,2015,59.2
+BEL,Belgium,PEN19A,"Effective labour market exit age, men",men,2016,60.2
+BEL,Belgium,PEN19A,"Effective labour market exit age, men",men,2017,60.4
+BEL,Belgium,PEN19A,"Effective labour market exit age, men",men,2018,60.4
+BEL,Belgium,PEN19A,"Effective labour market exit age, men",men,2019,60.1
+BEL,Belgium,PEN19A,"Effective labour market exit age, men",men,2020,60.9
+BEL,Belgium,PEN19B,"Effective labour market exit age, women",women,1970,60.6
+BEL,Belgium,PEN19B,"Effective labour market exit age, women",women,1980,58.1
+BEL,Belgium,PEN19B,"Effective labour market exit age, women",women,1990,55.4
+BEL,Belgium,PEN19B,"Effective labour market exit age, women",women,2000,56.7
+BEL,Belgium,PEN19B,"Effective labour market exit age, women",women,2005,57
+BEL,Belgium,PEN19B,"Effective labour market exit age, women",women,2010,58.2
+BEL,Belgium,PEN19B,"Effective labour market exit age, women",women,2015,58.9
+BEL,Belgium,PEN19B,"Effective labour market exit age, women",women,2016,59.1
+BEL,Belgium,PEN19B,"Effective labour market exit age, women",women,2017,59.6
+BEL,Belgium,PEN19B,"Effective labour market exit age, women",women,2018,59.9
+BEL,Belgium,PEN19B,"Effective labour market exit age, women",women,2019,59.8
+BEL,Belgium,PEN19B,"Effective labour market exit age, women",women,2020,60.1
+CAN,Canada,PEN19A,"Effective labour market exit age, men",men,1970,64.2
+CAN,Canada,PEN19A,"Effective labour market exit age, men",men,1980,63.6
+CAN,Canada,PEN19A,"Effective labour market exit age, men",men,1990,61.9
+CAN,Canada,PEN19A,"Effective labour market exit age, men",men,2000,61.3
+CAN,Canada,PEN19A,"Effective labour market exit age, men",men,2005,61.9
+CAN,Canada,PEN19A,"Effective labour market exit age, men",men,2010,61.8
+CAN,Canada,PEN19A,"Effective labour market exit age, men",men,2015,63.4
+CAN,Canada,PEN19A,"Effective labour market exit age, men",men,2016,64
+CAN,Canada,PEN19A,"Effective labour market exit age, men",men,2017,63.9
+CAN,Canada,PEN19A,"Effective labour market exit age, men",men,2018,63.6
+CAN,Canada,PEN19A,"Effective labour market exit age, men",men,2019,64.7
+CAN,Canada,PEN19A,"Effective labour market exit age, men",men,2020,63.9
+CAN,Canada,PEN19B,"Effective labour market exit age, women",women,1970,65.3
+CAN,Canada,PEN19B,"Effective labour market exit age, women",women,1980,62.9
+CAN,Canada,PEN19B,"Effective labour market exit age, women",women,1990,60.8
+CAN,Canada,PEN19B,"Effective labour market exit age, women",women,2000,59.9
+CAN,Canada,PEN19B,"Effective labour market exit age, women",women,2005,60.6
+CAN,Canada,PEN19B,"Effective labour market exit age, women",women,2010,61.2
+CAN,Canada,PEN19B,"Effective labour market exit age, women",women,2015,61.8
+CAN,Canada,PEN19B,"Effective labour market exit age, women",women,2016,61.7
+CAN,Canada,PEN19B,"Effective labour market exit age, women",women,2017,62.1
+CAN,Canada,PEN19B,"Effective labour market exit age, women",women,2018,62.5
+CAN,Canada,PEN19B,"Effective labour market exit age, women",women,2019,63
+CAN,Canada,PEN19B,"Effective labour market exit age, women",women,2020,62.6
+CZE,Czech Republic,PEN19A,"Effective labour market exit age, men",men,1970,62.8
+CZE,Czech Republic,PEN19A,"Effective labour market exit age, men",men,1980,61.5
+CZE,Czech Republic,PEN19A,"Effective labour market exit age, men",men,1990,61.6
+CZE,Czech Republic,PEN19A,"Effective labour market exit age, men",men,2000,60.6
+CZE,Czech Republic,PEN19A,"Effective labour market exit age, men",men,2005,60.6
+CZE,Czech Republic,PEN19A,"Effective labour market exit age, men",men,2010,61.5
+CZE,Czech Republic,PEN19A,"Effective labour market exit age, men",men,2015,62
+CZE,Czech Republic,PEN19A,"Effective labour market exit age, men",men,2016,61.6
+CZE,Czech Republic,PEN19A,"Effective labour market exit age, men",men,2017,61.8
+CZE,Czech Republic,PEN19A,"Effective labour market exit age, men",men,2018,62.3
+CZE,Czech Republic,PEN19A,"Effective labour market exit age, men",men,2019,63
+CZE,Czech Republic,PEN19A,"Effective labour market exit age, men",men,2020,63.1
+CZE,Czech Republic,PEN19B,"Effective labour market exit age, women",women,1970,60.4
+CZE,Czech Republic,PEN19B,"Effective labour market exit age, women",women,1980,58.3
+CZE,Czech Republic,PEN19B,"Effective labour market exit age, women",women,1990,57.8
+CZE,Czech Republic,PEN19B,"Effective labour market exit age, women",women,2000,57.2
+CZE,Czech Republic,PEN19B,"Effective labour market exit age, women",women,2005,57.8
+CZE,Czech Republic,PEN19B,"Effective labour market exit age, women",women,2010,58.4
+CZE,Czech Republic,PEN19B,"Effective labour market exit age, women",women,2015,60.1
+CZE,Czech Republic,PEN19B,"Effective labour market exit age, women",women,2016,60.2
+CZE,Czech Republic,PEN19B,"Effective labour market exit age, women",women,2017,60.2
+CZE,Czech Republic,PEN19B,"Effective labour market exit age, women",women,2018,60.6
+CZE,Czech Republic,PEN19B,"Effective labour market exit age, women",women,2019,61
+CZE,Czech Republic,PEN19B,"Effective labour market exit age, women",women,2020,61.5
+DNK,Denmark,PEN19A,"Effective labour market exit age, men",men,1970,66.6
+DNK,Denmark,PEN19A,"Effective labour market exit age, men",men,1980,64.1
+DNK,Denmark,PEN19A,"Effective labour market exit age, men",men,1990,64.1
+DNK,Denmark,PEN19A,"Effective labour market exit age, men",men,2000,62.9
+DNK,Denmark,PEN19A,"Effective labour market exit age, men",men,2005,62.5
+DNK,Denmark,PEN19A,"Effective labour market exit age, men",men,2010,62.6
+DNK,Denmark,PEN19A,"Effective labour market exit age, men",men,2015,62.3
+DNK,Denmark,PEN19A,"Effective labour market exit age, men",men,2016,62.5
+DNK,Denmark,PEN19A,"Effective labour market exit age, men",men,2017,64
+DNK,Denmark,PEN19A,"Effective labour market exit age, men",men,2018,64.3
+DNK,Denmark,PEN19A,"Effective labour market exit age, men",men,2019,64.5
+DNK,Denmark,PEN19A,"Effective labour market exit age, men",men,2020,63.8
+DNK,Denmark,PEN19B,"Effective labour market exit age, women",women,1970,64.6
+DNK,Denmark,PEN19B,"Effective labour market exit age, women",women,1980,63.4
+DNK,Denmark,PEN19B,"Effective labour market exit age, women",women,1990,61.3
+DNK,Denmark,PEN19B,"Effective labour market exit age, women",women,2000,59.3
+DNK,Denmark,PEN19B,"Effective labour market exit age, women",women,2005,61.4
+DNK,Denmark,PEN19B,"Effective labour market exit age, women",women,2010,61.1
+DNK,Denmark,PEN19B,"Effective labour market exit age, women",women,2015,60.5
+DNK,Denmark,PEN19B,"Effective labour market exit age, women",women,2016,62.2
+DNK,Denmark,PEN19B,"Effective labour market exit age, women",women,2017,62.2
+DNK,Denmark,PEN19B,"Effective labour market exit age, women",women,2018,61.9
+DNK,Denmark,PEN19B,"Effective labour market exit age, women",women,2019,63.3
+DNK,Denmark,PEN19B,"Effective labour market exit age, women",women,2020,63.5
+FIN,Finland,PEN19A,"Effective labour market exit age, men",men,1970,63.1
+FIN,Finland,PEN19A,"Effective labour market exit age, men",men,1980,63.5
+FIN,Finland,PEN19A,"Effective labour market exit age, men",men,1990,60
+FIN,Finland,PEN19A,"Effective labour market exit age, men",men,2000,59.1
+FIN,Finland,PEN19A,"Effective labour market exit age, men",men,2005,59.6
+FIN,Finland,PEN19A,"Effective labour market exit age, men",men,2010,60.7
+FIN,Finland,PEN19A,"Effective labour market exit age, men",men,2015,61.3
+FIN,Finland,PEN19A,"Effective labour market exit age, men",men,2016,62.1
+FIN,Finland,PEN19A,"Effective labour market exit age, men",men,2017,62.8
+FIN,Finland,PEN19A,"Effective labour market exit age, men",men,2018,63.2
+FIN,Finland,PEN19A,"Effective labour market exit age, men",men,2019,63.5
+FIN,Finland,PEN19A,"Effective labour market exit age, men",men,2020,63
+FIN,Finland,PEN19B,"Effective labour market exit age, women",women,1970,61.2
+FIN,Finland,PEN19B,"Effective labour market exit age, women",women,1980,61.7
+FIN,Finland,PEN19B,"Effective labour market exit age, women",women,1990,60
+FIN,Finland,PEN19B,"Effective labour market exit age, women",women,2000,59.2
+FIN,Finland,PEN19B,"Effective labour market exit age, women",women,2005,59.7
+FIN,Finland,PEN19B,"Effective labour market exit age, women",women,2010,61.1
+FIN,Finland,PEN19B,"Effective labour market exit age, women",women,2015,62.2
+FIN,Finland,PEN19B,"Effective labour market exit age, women",women,2016,62
+FIN,Finland,PEN19B,"Effective labour market exit age, women",women,2017,62.5
+FIN,Finland,PEN19B,"Effective labour market exit age, women",women,2018,63
+FIN,Finland,PEN19B,"Effective labour market exit age, women",women,2019,63
+FIN,Finland,PEN19B,"Effective labour market exit age, women",women,2020,63.6
+FRA,France,PEN19A,"Effective labour market exit age, men",men,1970,65.7
+FRA,France,PEN19A,"Effective labour market exit age, men",men,1980,62.3
+FRA,France,PEN19A,"Effective labour market exit age, men",men,1990,59.4
+FRA,France,PEN19A,"Effective labour market exit age, men",men,2000,58.4
+FRA,France,PEN19A,"Effective labour market exit age, men",men,2005,58.2
+FRA,France,PEN19A,"Effective labour market exit age, men",men,2010,58.9
+FRA,France,PEN19A,"Effective labour market exit age, men",men,2015,58.9
+FRA,France,PEN19A,"Effective labour market exit age, men",men,2016,59.3
+FRA,France,PEN19A,"Effective labour market exit age, men",men,2017,59.9
+FRA,France,PEN19A,"Effective labour market exit age, men",men,2018,60.3
+FRA,France,PEN19A,"Effective labour market exit age, men",men,2019,60
+FRA,France,PEN19A,"Effective labour market exit age, men",men,2020,60.4
+FRA,France,PEN19B,"Effective labour market exit age, women",women,1970,67.5
+FRA,France,PEN19B,"Effective labour market exit age, women",women,1980,63
+FRA,France,PEN19B,"Effective labour market exit age, women",women,1990,59
+FRA,France,PEN19B,"Effective labour market exit age, women",women,2000,58
+FRA,France,PEN19B,"Effective labour market exit age, women",women,2005,58.8
+FRA,France,PEN19B,"Effective labour market exit age, women",women,2010,59.1
+FRA,France,PEN19B,"Effective labour market exit age, women",women,2015,59.5
+FRA,France,PEN19B,"Effective labour market exit age, women",women,2016,59.9
+FRA,France,PEN19B,"Effective labour market exit age, women",women,2017,60
+FRA,France,PEN19B,"Effective labour market exit age, women",women,2018,60.2
+FRA,France,PEN19B,"Effective labour market exit age, women",women,2019,60.4
+FRA,France,PEN19B,"Effective labour market exit age, women",women,2020,60.9
+DEU,Germany,PEN19A,"Effective labour market exit age, men",men,2000,60
+DEU,Germany,PEN19A,"Effective labour market exit age, men",men,2005,60.9
+DEU,Germany,PEN19A,"Effective labour market exit age, men",men,2010,61.1
+DEU,Germany,PEN19A,"Effective labour market exit age, men",men,2015,61.9
+DEU,Germany,PEN19A,"Effective labour market exit age, men",men,2016,62.3
+DEU,Germany,PEN19A,"Effective labour market exit age, men",men,2017,62.6
+DEU,Germany,PEN19A,"Effective labour market exit age, men",men,2018,63
+DEU,Germany,PEN19A,"Effective labour market exit age, men",men,2019,63.4
+DEU,Germany,PEN19A,"Effective labour market exit age, men",men,2020,63.1
+DEU,Germany,PEN19B,"Effective labour market exit age, women",women,2000,59.5
+DEU,Germany,PEN19B,"Effective labour market exit age, women",women,2005,60
+DEU,Germany,PEN19B,"Effective labour market exit age, women",women,2010,61.1
+DEU,Germany,PEN19B,"Effective labour market exit age, women",women,2015,61.6
+DEU,Germany,PEN19B,"Effective labour market exit age, women",women,2016,62.4
+DEU,Germany,PEN19B,"Effective labour market exit age, women",women,2017,62.7
+DEU,Germany,PEN19B,"Effective labour market exit age, women",women,2018,62.9
+DEU,Germany,PEN19B,"Effective labour market exit age, women",women,2019,63.3
+DEU,Germany,PEN19B,"Effective labour market exit age, women",women,2020,63.2
+GRC,Greece,PEN19A,"Effective labour market exit age, men",men,1970,64.8
+GRC,Greece,PEN19A,"Effective labour market exit age, men",men,1980,63.8
+GRC,Greece,PEN19A,"Effective labour market exit age, men",men,1990,62
+GRC,Greece,PEN19A,"Effective labour market exit age, men",men,2000,61.8
+GRC,Greece,PEN19A,"Effective labour market exit age, men",men,2005,61.2
+GRC,Greece,PEN19A,"Effective labour market exit age, men",men,2010,61
+GRC,Greece,PEN19A,"Effective labour market exit age, men",men,2015,60.8
+GRC,Greece,PEN19A,"Effective labour market exit age, men",men,2016,60.8
+GRC,Greece,PEN19A,"Effective labour market exit age, men",men,2017,60.5
+GRC,Greece,PEN19A,"Effective labour market exit age, men",men,2018,60.8
+GRC,Greece,PEN19A,"Effective labour market exit age, men",men,2019,61.3
+GRC,Greece,PEN19A,"Effective labour market exit age, men",men,2020,60.9
+GRC,Greece,PEN19B,"Effective labour market exit age, women",women,1970,61.6
+GRC,Greece,PEN19B,"Effective labour market exit age, women",women,1980,60.7
+GRC,Greece,PEN19B,"Effective labour market exit age, women",women,1990,59.4
+GRC,Greece,PEN19B,"Effective labour market exit age, women",women,2000,61.1
+GRC,Greece,PEN19B,"Effective labour market exit age, women",women,2005,60.2
+GRC,Greece,PEN19B,"Effective labour market exit age, women",women,2010,59.5
+GRC,Greece,PEN19B,"Effective labour market exit age, women",women,2015,59.1
+GRC,Greece,PEN19B,"Effective labour market exit age, women",women,2016,59.4
+GRC,Greece,PEN19B,"Effective labour market exit age, women",women,2017,59.2
+GRC,Greece,PEN19B,"Effective labour market exit age, women",women,2018,59.3
+GRC,Greece,PEN19B,"Effective labour market exit age, women",women,2019,59.1
+GRC,Greece,PEN19B,"Effective labour market exit age, women",women,2020,58.1
+HUN,Hungary,PEN19A,"Effective labour market exit age, men",men,1970,66.4
+HUN,Hungary,PEN19A,"Effective labour market exit age, men",men,1980,62.6
+HUN,Hungary,PEN19A,"Effective labour market exit age, men",men,1990,60.8
+HUN,Hungary,PEN19A,"Effective labour market exit age, men",men,2000,57.1
+HUN,Hungary,PEN19A,"Effective labour market exit age, men",men,2005,58
+HUN,Hungary,PEN19A,"Effective labour market exit age, men",men,2010,59.5
+HUN,Hungary,PEN19A,"Effective labour market exit age, men",men,2015,62.5
+HUN,Hungary,PEN19A,"Effective labour market exit age, men",men,2016,63
+HUN,Hungary,PEN19A,"Effective labour market exit age, men",men,2017,62.6
+HUN,Hungary,PEN19A,"Effective labour market exit age, men",men,2018,62.8
+HUN,Hungary,PEN19A,"Effective labour market exit age, men",men,2019,62.1
+HUN,Hungary,PEN19A,"Effective labour market exit age, men",men,2020,62.1
+HUN,Hungary,PEN19B,"Effective labour market exit age, women",women,1970,66
+HUN,Hungary,PEN19B,"Effective labour market exit age, women",women,1980,60.3
+HUN,Hungary,PEN19B,"Effective labour market exit age, women",women,1990,57.7
+HUN,Hungary,PEN19B,"Effective labour market exit age, women",women,2000,55.1
+HUN,Hungary,PEN19B,"Effective labour market exit age, women",women,2005,56.6
+HUN,Hungary,PEN19B,"Effective labour market exit age, women",women,2010,58.5
+HUN,Hungary,PEN19B,"Effective labour market exit age, women",women,2015,59.7
+HUN,Hungary,PEN19B,"Effective labour market exit age, women",women,2016,60.3
+HUN,Hungary,PEN19B,"Effective labour market exit age, women",women,2017,59.8
+HUN,Hungary,PEN19B,"Effective labour market exit age, women",women,2018,59.7
+HUN,Hungary,PEN19B,"Effective labour market exit age, women",women,2019,59.1
+HUN,Hungary,PEN19B,"Effective labour market exit age, women",women,2020,59.7
+ISL,Iceland,PEN19A,"Effective labour market exit age, men",men,1970,69.4
+ISL,Iceland,PEN19A,"Effective labour market exit age, men",men,1980,68.2
+ISL,Iceland,PEN19A,"Effective labour market exit age, men",men,1990,69.8
+ISL,Iceland,PEN19A,"Effective labour market exit age, men",men,2000,68.9
+ISL,Iceland,PEN19A,"Effective labour market exit age, men",men,2005,66.5
+ISL,Iceland,PEN19A,"Effective labour market exit age, men",men,2010,66.6
+ISL,Iceland,PEN19A,"Effective labour market exit age, men",men,2015,68.2
+ISL,Iceland,PEN19A,"Effective labour market exit age, men",men,2016,67.6
+ISL,Iceland,PEN19A,"Effective labour market exit age, men",men,2017,68.4
+ISL,Iceland,PEN19A,"Effective labour market exit age, men",men,2018,66.3
+ISL,Iceland,PEN19A,"Effective labour market exit age, men",men,2019,66
+ISL,Iceland,PEN19A,"Effective labour market exit age, men",men,2020,66
+ISL,Iceland,PEN19B,"Effective labour market exit age, women",women,1970,69.5
+ISL,Iceland,PEN19B,"Effective labour market exit age, women",women,1980,69.3
+ISL,Iceland,PEN19B,"Effective labour market exit age, women",women,1990,69.7
+ISL,Iceland,PEN19B,"Effective labour market exit age, women",women,2000,65.5
+ISL,Iceland,PEN19B,"Effective labour market exit age, women",women,2005,62.5
+ISL,Iceland,PEN19B,"Effective labour market exit age, women",women,2010,65.3
+ISL,Iceland,PEN19B,"Effective labour market exit age, women",women,2015,67.1
+ISL,Iceland,PEN19B,"Effective labour market exit age, women",women,2016,65.9
+ISL,Iceland,PEN19B,"Effective labour market exit age, women",women,2017,65.2
+ISL,Iceland,PEN19B,"Effective labour market exit age, women",women,2018,64.1
+ISL,Iceland,PEN19B,"Effective labour market exit age, women",women,2019,64.3
+ISL,Iceland,PEN19B,"Effective labour market exit age, women",women,2020,63.5
+IRL,Ireland,PEN19A,"Effective labour market exit age, men",men,1970,70.4
+IRL,Ireland,PEN19A,"Effective labour market exit age, men",men,1980,65.7
+IRL,Ireland,PEN19A,"Effective labour market exit age, men",men,1990,62.2
+IRL,Ireland,PEN19A,"Effective labour market exit age, men",men,2000,63.5
+IRL,Ireland,PEN19A,"Effective labour market exit age, men",men,2005,62.4
+IRL,Ireland,PEN19A,"Effective labour market exit age, men",men,2010,61.1
+IRL,Ireland,PEN19A,"Effective labour market exit age, men",men,2015,64.7
+IRL,Ireland,PEN19A,"Effective labour market exit age, men",men,2016,64.4
+IRL,Ireland,PEN19A,"Effective labour market exit age, men",men,2017,64.1
+IRL,Ireland,PEN19A,"Effective labour market exit age, men",men,2018,63.7
+IRL,Ireland,PEN19A,"Effective labour market exit age, men",men,2019,64
+IRL,Ireland,PEN19A,"Effective labour market exit age, men",men,2020,63.6
+IRL,Ireland,PEN19B,"Effective labour market exit age, women",women,1970,72.3
+IRL,Ireland,PEN19B,"Effective labour market exit age, women",women,1980,68
+IRL,Ireland,PEN19B,"Effective labour market exit age, women",women,1990,62.4
+IRL,Ireland,PEN19B,"Effective labour market exit age, women",women,2000,64.8
+IRL,Ireland,PEN19B,"Effective labour market exit age, women",women,2005,64.3
+IRL,Ireland,PEN19B,"Effective labour market exit age, women",women,2010,63.2
+IRL,Ireland,PEN19B,"Effective labour market exit age, women",women,2015,62.3
+IRL,Ireland,PEN19B,"Effective labour market exit age, women",women,2016,62.6
+IRL,Ireland,PEN19B,"Effective labour market exit age, women",women,2017,63.2
+IRL,Ireland,PEN19B,"Effective labour market exit age, women",women,2018,63
+IRL,Ireland,PEN19B,"Effective labour market exit age, women",women,2019,63.6
+IRL,Ireland,PEN19B,"Effective labour market exit age, women",women,2020,63.8
+ITA,Italy,PEN19A,"Effective labour market exit age, men",men,1970,63
+ITA,Italy,PEN19A,"Effective labour market exit age, men",men,1980,60.6
+ITA,Italy,PEN19A,"Effective labour market exit age, men",men,1990,60.4
+ITA,Italy,PEN19A,"Effective labour market exit age, men",men,2000,59.1
+ITA,Italy,PEN19A,"Effective labour market exit age, men",men,2005,59.9
+ITA,Italy,PEN19A,"Effective labour market exit age, men",men,2010,59.4
+ITA,Italy,PEN19A,"Effective labour market exit age, men",men,2015,60.4
+ITA,Italy,PEN19A,"Effective labour market exit age, men",men,2016,60.7
+ITA,Italy,PEN19A,"Effective labour market exit age, men",men,2017,61.1
+ITA,Italy,PEN19A,"Effective labour market exit age, men",men,2018,62
+ITA,Italy,PEN19A,"Effective labour market exit age, men",men,2019,62.6
+ITA,Italy,PEN19A,"Effective labour market exit age, men",men,2020,62.3
+ITA,Italy,PEN19B,"Effective labour market exit age, women",women,1970,59.8
+ITA,Italy,PEN19B,"Effective labour market exit age, women",women,1980,60.1
+ITA,Italy,PEN19B,"Effective labour market exit age, women",women,1990,58.2
+ITA,Italy,PEN19B,"Effective labour market exit age, women",women,2000,57.4
+ITA,Italy,PEN19B,"Effective labour market exit age, women",women,2005,57.8
+ITA,Italy,PEN19B,"Effective labour market exit age, women",women,2010,58.4
+ITA,Italy,PEN19B,"Effective labour market exit age, women",women,2015,59.9
+ITA,Italy,PEN19B,"Effective labour market exit age, women",women,2016,60.7
+ITA,Italy,PEN19B,"Effective labour market exit age, women",women,2017,60.2
+ITA,Italy,PEN19B,"Effective labour market exit age, women",women,2018,60.7
+ITA,Italy,PEN19B,"Effective labour market exit age, women",women,2019,61.7
+ITA,Italy,PEN19B,"Effective labour market exit age, women",women,2020,61.3
+JPN,Japan,PEN19A,"Effective labour market exit age, men",men,1970,69.9
+JPN,Japan,PEN19A,"Effective labour market exit age, men",men,1980,67.8
+JPN,Japan,PEN19A,"Effective labour market exit age, men",men,1990,67.6
+JPN,Japan,PEN19A,"Effective labour market exit age, men",men,2000,67.2
+JPN,Japan,PEN19A,"Effective labour market exit age, men",men,2005,66.6
+JPN,Japan,PEN19A,"Effective labour market exit age, men",men,2010,67.2
+JPN,Japan,PEN19A,"Effective labour market exit age, men",men,2015,66.5
+JPN,Japan,PEN19A,"Effective labour market exit age, men",men,2016,67.2
+JPN,Japan,PEN19A,"Effective labour market exit age, men",men,2017,67.7
+JPN,Japan,PEN19A,"Effective labour market exit age, men",men,2018,67.8
+JPN,Japan,PEN19A,"Effective labour market exit age, men",men,2019,67.6
+JPN,Japan,PEN19A,"Effective labour market exit age, men",men,2020,68.2
+JPN,Japan,PEN19B,"Effective labour market exit age, women",women,1970,65.7
+JPN,Japan,PEN19B,"Effective labour market exit age, women",women,1980,64.1
+JPN,Japan,PEN19B,"Effective labour market exit age, women",women,1990,63.9
+JPN,Japan,PEN19B,"Effective labour market exit age, women",women,2000,63.7
+JPN,Japan,PEN19B,"Effective labour market exit age, women",women,2005,63.8
+JPN,Japan,PEN19B,"Effective labour market exit age, women",women,2010,64.5
+JPN,Japan,PEN19B,"Effective labour market exit age, women",women,2015,65.7
+JPN,Japan,PEN19B,"Effective labour market exit age, women",women,2016,66.4
+JPN,Japan,PEN19B,"Effective labour market exit age, women",women,2017,66.8
+JPN,Japan,PEN19B,"Effective labour market exit age, women",women,2018,66.5
+JPN,Japan,PEN19B,"Effective labour market exit age, women",women,2019,67.1
+JPN,Japan,PEN19B,"Effective labour market exit age, women",women,2020,66.7
+KOR,Korea,PEN19A,"Effective labour market exit age, men",men,1970,62.5
+KOR,Korea,PEN19A,"Effective labour market exit age, men",men,1980,64.9
+KOR,Korea,PEN19A,"Effective labour market exit age, men",men,1990,65.7
+KOR,Korea,PEN19A,"Effective labour market exit age, men",men,2000,63.6
+KOR,Korea,PEN19A,"Effective labour market exit age, men",men,2005,65.9
+KOR,Korea,PEN19A,"Effective labour market exit age, men",men,2010,67.1
+KOR,Korea,PEN19A,"Effective labour market exit age, men",men,2015,68.7
+KOR,Korea,PEN19A,"Effective labour market exit age, men",men,2016,68.4
+KOR,Korea,PEN19A,"Effective labour market exit age, men",men,2017,69.4
+KOR,Korea,PEN19A,"Effective labour market exit age, men",men,2018,68.6
+KOR,Korea,PEN19A,"Effective labour market exit age, men",men,2019,66.6
+KOR,Korea,PEN19A,"Effective labour market exit age, men",men,2020,65.7
+KOR,Korea,PEN19B,"Effective labour market exit age, women",women,1970,61.5
+KOR,Korea,PEN19B,"Effective labour market exit age, women",women,1980,62.6
+KOR,Korea,PEN19B,"Effective labour market exit age, women",women,1990,66.4
+KOR,Korea,PEN19B,"Effective labour market exit age, women",women,2000,62.8
+KOR,Korea,PEN19B,"Effective labour market exit age, women",women,2005,64.3
+KOR,Korea,PEN19B,"Effective labour market exit age, women",women,2010,66.1
+KOR,Korea,PEN19B,"Effective labour market exit age, women",women,2015,68.5
+KOR,Korea,PEN19B,"Effective labour market exit age, women",women,2016,68.5
+KOR,Korea,PEN19B,"Effective labour market exit age, women",women,2017,69.5
+KOR,Korea,PEN19B,"Effective labour market exit age, women",women,2018,68.4
+KOR,Korea,PEN19B,"Effective labour market exit age, women",women,2019,67.9
+KOR,Korea,PEN19B,"Effective labour market exit age, women",women,2020,64.9
+LUX,Luxembourg,PEN19A,"Effective labour market exit age, men",men,1970,63.3
+LUX,Luxembourg,PEN19A,"Effective labour market exit age, men",men,1980,59.6
+LUX,Luxembourg,PEN19A,"Effective labour market exit age, men",men,1990,59
+LUX,Luxembourg,PEN19A,"Effective labour market exit age, men",men,2000,58.5
+LUX,Luxembourg,PEN19A,"Effective labour market exit age, men",men,2005,58.7
+LUX,Luxembourg,PEN19A,"Effective labour market exit age, men",men,2010,57.4
+LUX,Luxembourg,PEN19A,"Effective labour market exit age, men",men,2015,59.3
+LUX,Luxembourg,PEN19A,"Effective labour market exit age, men",men,2016,60.1
+LUX,Luxembourg,PEN19A,"Effective labour market exit age, men",men,2017,58.7
+LUX,Luxembourg,PEN19A,"Effective labour market exit age, men",men,2018,59.5
+LUX,Luxembourg,PEN19A,"Effective labour market exit age, men",men,2019,59.7
+LUX,Luxembourg,PEN19A,"Effective labour market exit age, men",men,2020,59.2
+LUX,Luxembourg,PEN19B,"Effective labour market exit age, women",women,1970,60.6
+LUX,Luxembourg,PEN19B,"Effective labour market exit age, women",women,1980,62.2
+LUX,Luxembourg,PEN19B,"Effective labour market exit age, women",women,1990,58.8
+LUX,Luxembourg,PEN19B,"Effective labour market exit age, women",women,2000,59
+LUX,Luxembourg,PEN19B,"Effective labour market exit age, women",women,2005,60.7
+LUX,Luxembourg,PEN19B,"Effective labour market exit age, women",women,2010,58.2
+LUX,Luxembourg,PEN19B,"Effective labour market exit age, women",women,2015,58.4
+LUX,Luxembourg,PEN19B,"Effective labour market exit age, women",women,2016,59.7
+LUX,Luxembourg,PEN19B,"Effective labour market exit age, women",women,2017,60.1
+LUX,Luxembourg,PEN19B,"Effective labour market exit age, women",women,2018,59.8
+LUX,Luxembourg,PEN19B,"Effective labour market exit age, women",women,2019,58.6
+LUX,Luxembourg,PEN19B,"Effective labour market exit age, women",women,2020,60.1
+MEX,Mexico,PEN19A,"Effective labour market exit age, men",men,1970,76.1
+MEX,Mexico,PEN19A,"Effective labour market exit age, men",men,1980,74
+MEX,Mexico,PEN19A,"Effective labour market exit age, men",men,1990,72.3
+MEX,Mexico,PEN19A,"Effective labour market exit age, men",men,2000,70.4
+MEX,Mexico,PEN19A,"Effective labour market exit age, men",men,2005,69
+MEX,Mexico,PEN19A,"Effective labour market exit age, men",men,2010,66.9
+MEX,Mexico,PEN19A,"Effective labour market exit age, men",men,2015,67.5
+MEX,Mexico,PEN19A,"Effective labour market exit age, men",men,2016,67.4
+MEX,Mexico,PEN19A,"Effective labour market exit age, men",men,2017,67.7
+MEX,Mexico,PEN19A,"Effective labour market exit age, men",men,2018,67.2
+MEX,Mexico,PEN19A,"Effective labour market exit age, men",men,2019,67.6
+MEX,Mexico,PEN19A,"Effective labour market exit age, men",men,2020,66.2
+MEX,Mexico,PEN19B,"Effective labour market exit age, women",women,1970,78.6
+MEX,Mexico,PEN19B,"Effective labour market exit age, women",women,1980,74.7
+MEX,Mexico,PEN19B,"Effective labour market exit age, women",women,1990,68.5
+MEX,Mexico,PEN19B,"Effective labour market exit age, women",women,2000,65.7
+MEX,Mexico,PEN19B,"Effective labour market exit age, women",women,2005,69.5
+MEX,Mexico,PEN19B,"Effective labour market exit age, women",women,2010,65.7
+MEX,Mexico,PEN19B,"Effective labour market exit age, women",women,2015,64.5
+MEX,Mexico,PEN19B,"Effective labour market exit age, women",women,2016,63.7
+MEX,Mexico,PEN19B,"Effective labour market exit age, women",women,2017,62.6
+MEX,Mexico,PEN19B,"Effective labour market exit age, women",women,2018,63
+MEX,Mexico,PEN19B,"Effective labour market exit age, women",women,2019,64.9
+MEX,Mexico,PEN19B,"Effective labour market exit age, women",women,2020,62.5
+NLD,Netherlands,PEN19A,"Effective labour market exit age, men",men,1970,65.1
+NLD,Netherlands,PEN19A,"Effective labour market exit age, men",men,1980,61.8
+NLD,Netherlands,PEN19A,"Effective labour market exit age, men",men,1990,58.9
+NLD,Netherlands,PEN19A,"Effective labour market exit age, men",men,2000,59.5
+NLD,Netherlands,PEN19A,"Effective labour market exit age, men",men,2005,60.4
+NLD,Netherlands,PEN19A,"Effective labour market exit age, men",men,2010,61.9
+NLD,Netherlands,PEN19A,"Effective labour market exit age, men",men,2015,62.7
+NLD,Netherlands,PEN19A,"Effective labour market exit age, men",men,2016,62.5
+NLD,Netherlands,PEN19A,"Effective labour market exit age, men",men,2017,62.5
+NLD,Netherlands,PEN19A,"Effective labour market exit age, men",men,2018,64
+NLD,Netherlands,PEN19A,"Effective labour market exit age, men",men,2019,64.2
+NLD,Netherlands,PEN19A,"Effective labour market exit age, men",men,2020,63.9
+NLD,Netherlands,PEN19B,"Effective labour market exit age, women",women,1970,65.5
+NLD,Netherlands,PEN19B,"Effective labour market exit age, women",women,1980,63.2
+NLD,Netherlands,PEN19B,"Effective labour market exit age, women",women,1990,58.2
+NLD,Netherlands,PEN19B,"Effective labour market exit age, women",women,2000,58.2
+NLD,Netherlands,PEN19B,"Effective labour market exit age, women",women,2005,60.4
+NLD,Netherlands,PEN19B,"Effective labour market exit age, women",women,2010,60.1
+NLD,Netherlands,PEN19B,"Effective labour market exit age, women",women,2015,60.9
+NLD,Netherlands,PEN19B,"Effective labour market exit age, women",women,2016,61.5
+NLD,Netherlands,PEN19B,"Effective labour market exit age, women",women,2017,62
+NLD,Netherlands,PEN19B,"Effective labour market exit age, women",women,2018,61.8
+NLD,Netherlands,PEN19B,"Effective labour market exit age, women",women,2019,62.6
+NLD,Netherlands,PEN19B,"Effective labour market exit age, women",women,2020,62.8
+NZL,New Zealand,PEN19A,"Effective labour market exit age, men",men,1970,67.6
+NZL,New Zealand,PEN19A,"Effective labour market exit age, men",men,1980,64.6
+NZL,New Zealand,PEN19A,"Effective labour market exit age, men",men,1990,61.5
+NZL,New Zealand,PEN19A,"Effective labour market exit age, men",men,2000,62.9
+NZL,New Zealand,PEN19A,"Effective labour market exit age, men",men,2005,64.5
+NZL,New Zealand,PEN19A,"Effective labour market exit age, men",men,2010,64.2
+NZL,New Zealand,PEN19A,"Effective labour market exit age, men",men,2015,65.6
+NZL,New Zealand,PEN19A,"Effective labour market exit age, men",men,2016,66.5
+NZL,New Zealand,PEN19A,"Effective labour market exit age, men",men,2017,68.2
+NZL,New Zealand,PEN19A,"Effective labour market exit age, men",men,2018,68.3
+NZL,New Zealand,PEN19A,"Effective labour market exit age, men",men,2019,67.4
+NZL,New Zealand,PEN19A,"Effective labour market exit age, men",men,2020,68.2
+NZL,New Zealand,PEN19B,"Effective labour market exit age, women",women,1970,67.4
+NZL,New Zealand,PEN19B,"Effective labour market exit age, women",women,1980,62.4
+NZL,New Zealand,PEN19B,"Effective labour market exit age, women",women,1990,60.4
+NZL,New Zealand,PEN19B,"Effective labour market exit age, women",women,2000,59.1
+NZL,New Zealand,PEN19B,"Effective labour market exit age, women",women,2005,62.5
+NZL,New Zealand,PEN19B,"Effective labour market exit age, women",women,2010,64.6
+NZL,New Zealand,PEN19B,"Effective labour market exit age, women",women,2015,65
+NZL,New Zealand,PEN19B,"Effective labour market exit age, women",women,2016,65.2
+NZL,New Zealand,PEN19B,"Effective labour market exit age, women",women,2017,65.8
+NZL,New Zealand,PEN19B,"Effective labour market exit age, women",women,2018,65.3
+NZL,New Zealand,PEN19B,"Effective labour market exit age, women",women,2019,65.1
+NZL,New Zealand,PEN19B,"Effective labour market exit age, women",women,2020,65.8
+NOR,Norway,PEN19A,"Effective labour market exit age, men",men,1970,66.6
+NOR,Norway,PEN19A,"Effective labour market exit age, men",men,1980,66.6
+NOR,Norway,PEN19A,"Effective labour market exit age, men",men,1990,62.4
+NOR,Norway,PEN19A,"Effective labour market exit age, men",men,2000,63.5
+NOR,Norway,PEN19A,"Effective labour market exit age, men",men,2005,62.7
+NOR,Norway,PEN19A,"Effective labour market exit age, men",men,2010,63
+NOR,Norway,PEN19A,"Effective labour market exit age, men",men,2015,64
+NOR,Norway,PEN19A,"Effective labour market exit age, men",men,2016,64.8
+NOR,Norway,PEN19A,"Effective labour market exit age, men",men,2017,63.9
+NOR,Norway,PEN19A,"Effective labour market exit age, men",men,2018,64.7
+NOR,Norway,PEN19A,"Effective labour market exit age, men",men,2019,64.9
+NOR,Norway,PEN19A,"Effective labour market exit age, men",men,2020,64.9
+NOR,Norway,PEN19B,"Effective labour market exit age, women",women,1970,68.1
+NOR,Norway,PEN19B,"Effective labour market exit age, women",women,1980,65.8
+NOR,Norway,PEN19B,"Effective labour market exit age, women",women,1990,62.1
+NOR,Norway,PEN19B,"Effective labour market exit age, women",women,2000,63.7
+NOR,Norway,PEN19B,"Effective labour market exit age, women",women,2005,61.4
+NOR,Norway,PEN19B,"Effective labour market exit age, women",women,2010,63.1
+NOR,Norway,PEN19B,"Effective labour market exit age, women",women,2015,63.6
+NOR,Norway,PEN19B,"Effective labour market exit age, women",women,2016,63.4
+NOR,Norway,PEN19B,"Effective labour market exit age, women",women,2017,63.1
+NOR,Norway,PEN19B,"Effective labour market exit age, women",women,2018,63.3
+NOR,Norway,PEN19B,"Effective labour market exit age, women",women,2019,62.7
+NOR,Norway,PEN19B,"Effective labour market exit age, women",women,2020,63.1
+POL,Poland,PEN19A,"Effective labour market exit age, men",men,1970,70.2
+POL,Poland,PEN19A,"Effective labour market exit age, men",men,1980,64.7
+POL,Poland,PEN19A,"Effective labour market exit age, men",men,1990,62.9
+POL,Poland,PEN19A,"Effective labour market exit age, men",men,2000,59.6
+POL,Poland,PEN19A,"Effective labour market exit age, men",men,2005,59.7
+POL,Poland,PEN19A,"Effective labour market exit age, men",men,2010,59.6
+POL,Poland,PEN19A,"Effective labour market exit age, men",men,2015,60.6
+POL,Poland,PEN19A,"Effective labour market exit age, men",men,2016,60.8
+POL,Poland,PEN19A,"Effective labour market exit age, men",men,2017,61
+POL,Poland,PEN19A,"Effective labour market exit age, men",men,2018,61.4
+POL,Poland,PEN19A,"Effective labour market exit age, men",men,2019,61.9
+POL,Poland,PEN19A,"Effective labour market exit age, men",men,2020,62.2
+POL,Poland,PEN19B,"Effective labour market exit age, women",women,1970,68.8
+POL,Poland,PEN19B,"Effective labour market exit age, women",women,1980,62.2
+POL,Poland,PEN19B,"Effective labour market exit age, women",women,1990,60.4
+POL,Poland,PEN19B,"Effective labour market exit age, women",women,2000,57.5
+POL,Poland,PEN19B,"Effective labour market exit age, women",women,2005,56.8
+POL,Poland,PEN19B,"Effective labour market exit age, women",women,2010,57.8
+POL,Poland,PEN19B,"Effective labour market exit age, women",women,2015,58.4
+POL,Poland,PEN19B,"Effective labour market exit age, women",women,2016,58.7
+POL,Poland,PEN19B,"Effective labour market exit age, women",women,2017,59
+POL,Poland,PEN19B,"Effective labour market exit age, women",women,2018,59.7
+POL,Poland,PEN19B,"Effective labour market exit age, women",women,2019,59.6
+POL,Poland,PEN19B,"Effective labour market exit age, women",women,2020,60.1
+PRT,Portugal,PEN19A,"Effective labour market exit age, men",men,1970,69.1
+PRT,Portugal,PEN19A,"Effective labour market exit age, men",men,1980,65.6
+PRT,Portugal,PEN19A,"Effective labour market exit age, men",men,1990,63
+PRT,Portugal,PEN19A,"Effective labour market exit age, men",men,2000,60.7
+PRT,Portugal,PEN19A,"Effective labour market exit age, men",men,2005,62.9
+PRT,Portugal,PEN19A,"Effective labour market exit age, men",men,2010,63.4
+PRT,Portugal,PEN19A,"Effective labour market exit age, men",men,2015,64.2
+PRT,Portugal,PEN19A,"Effective labour market exit age, men",men,2016,65.7
+PRT,Portugal,PEN19A,"Effective labour market exit age, men",men,2017,66.1
+PRT,Portugal,PEN19A,"Effective labour market exit age, men",men,2018,65.3
+PRT,Portugal,PEN19A,"Effective labour market exit age, men",men,2019,65.6
+PRT,Portugal,PEN19A,"Effective labour market exit age, men",men,2020,64.9
+PRT,Portugal,PEN19B,"Effective labour market exit age, women",women,1970,68.9
+PRT,Portugal,PEN19B,"Effective labour market exit age, women",women,1980,65.3
+PRT,Portugal,PEN19B,"Effective labour market exit age, women",women,1990,62.1
+PRT,Portugal,PEN19B,"Effective labour market exit age, women",women,2000,57.9
+PRT,Portugal,PEN19B,"Effective labour market exit age, women",women,2005,63.1
+PRT,Portugal,PEN19B,"Effective labour market exit age, women",women,2010,62.2
+PRT,Portugal,PEN19B,"Effective labour market exit age, women",women,2015,63.4
+PRT,Portugal,PEN19B,"Effective labour market exit age, women",women,2016,62.7
+PRT,Portugal,PEN19B,"Effective labour market exit age, women",women,2017,63.2
+PRT,Portugal,PEN19B,"Effective labour market exit age, women",women,2018,63.2
+PRT,Portugal,PEN19B,"Effective labour market exit age, women",women,2019,62.9
+PRT,Portugal,PEN19B,"Effective labour market exit age, women",women,2020,63.3
+SVK,Slovak Republic,PEN19A,"Effective labour market exit age, men",men,1970,63
+SVK,Slovak Republic,PEN19A,"Effective labour market exit age, men",men,1980,61.8
+SVK,Slovak Republic,PEN19A,"Effective labour market exit age, men",men,1990,61.3
+SVK,Slovak Republic,PEN19A,"Effective labour market exit age, men",men,2000,58.8
+SVK,Slovak Republic,PEN19A,"Effective labour market exit age, men",men,2005,58.7
+SVK,Slovak Republic,PEN19A,"Effective labour market exit age, men",men,2010,59.5
+SVK,Slovak Republic,PEN19A,"Effective labour market exit age, men",men,2015,60.4
+SVK,Slovak Republic,PEN19A,"Effective labour market exit age, men",men,2016,60.2
+SVK,Slovak Republic,PEN19A,"Effective labour market exit age, men",men,2017,60.1
+SVK,Slovak Republic,PEN19A,"Effective labour market exit age, men",men,2018,60.6
+SVK,Slovak Republic,PEN19A,"Effective labour market exit age, men",men,2019,60.1
+SVK,Slovak Republic,PEN19A,"Effective labour market exit age, men",men,2020,60.2
+SVK,Slovak Republic,PEN19B,"Effective labour market exit age, women",women,1970,59.4
+SVK,Slovak Republic,PEN19B,"Effective labour market exit age, women",women,1980,58.8
+SVK,Slovak Republic,PEN19B,"Effective labour market exit age, women",women,1990,56.7
+SVK,Slovak Republic,PEN19B,"Effective labour market exit age, women",women,2000,55.3
+SVK,Slovak Republic,PEN19B,"Effective labour market exit age, women",women,2005,55.3
+SVK,Slovak Republic,PEN19B,"Effective labour market exit age, women",women,2010,56.4
+SVK,Slovak Republic,PEN19B,"Effective labour market exit age, women",women,2015,58.8
+SVK,Slovak Republic,PEN19B,"Effective labour market exit age, women",women,2016,59.1
+SVK,Slovak Republic,PEN19B,"Effective labour market exit age, women",women,2017,58.9
+SVK,Slovak Republic,PEN19B,"Effective labour market exit age, women",women,2018,59.6
+SVK,Slovak Republic,PEN19B,"Effective labour market exit age, women",women,2019,59.6
+SVK,Slovak Republic,PEN19B,"Effective labour market exit age, women",women,2020,59.8
+ESP,Spain,PEN19A,"Effective labour market exit age, men",men,1970,67.7
+ESP,Spain,PEN19A,"Effective labour market exit age, men",men,1980,63.2
+ESP,Spain,PEN19A,"Effective labour market exit age, men",men,1990,62.5
+ESP,Spain,PEN19A,"Effective labour market exit age, men",men,2000,60.9
+ESP,Spain,PEN19A,"Effective labour market exit age, men",men,2005,60.3
+ESP,Spain,PEN19A,"Effective labour market exit age, men",men,2010,61.6
+ESP,Spain,PEN19A,"Effective labour market exit age, men",men,2015,61.6
+ESP,Spain,PEN19A,"Effective labour market exit age, men",men,2016,61.6
+ESP,Spain,PEN19A,"Effective labour market exit age, men",men,2017,61.6
+ESP,Spain,PEN19A,"Effective labour market exit age, men",men,2018,61.5
+ESP,Spain,PEN19A,"Effective labour market exit age, men",men,2019,61.5
+ESP,Spain,PEN19A,"Effective labour market exit age, men",men,2020,61
+ESP,Spain,PEN19B,"Effective labour market exit age, women",women,1970,66.8
+ESP,Spain,PEN19B,"Effective labour market exit age, women",women,1980,65
+ESP,Spain,PEN19B,"Effective labour market exit age, women",women,1990,64.2
+ESP,Spain,PEN19B,"Effective labour market exit age, women",women,2000,60.9
+ESP,Spain,PEN19B,"Effective labour market exit age, women",women,2005,62.6
+ESP,Spain,PEN19B,"Effective labour market exit age, women",women,2010,62.5
+ESP,Spain,PEN19B,"Effective labour market exit age, women",women,2015,62.1
+ESP,Spain,PEN19B,"Effective labour market exit age, women",women,2016,61.9
+ESP,Spain,PEN19B,"Effective labour market exit age, women",women,2017,60.9
+ESP,Spain,PEN19B,"Effective labour market exit age, women",women,2018,60.6
+ESP,Spain,PEN19B,"Effective labour market exit age, women",women,2019,61.2
+ESP,Spain,PEN19B,"Effective labour market exit age, women",women,2020,60.4
+SWE,Sweden,PEN19A,"Effective labour market exit age, men",men,1970,66.3
+SWE,Sweden,PEN19A,"Effective labour market exit age, men",men,1980,64.2
+SWE,Sweden,PEN19A,"Effective labour market exit age, men",men,1990,63
+SWE,Sweden,PEN19A,"Effective labour market exit age, men",men,2000,62.4
+SWE,Sweden,PEN19A,"Effective labour market exit age, men",men,2005,63.8
+SWE,Sweden,PEN19A,"Effective labour market exit age, men",men,2010,64.5
+SWE,Sweden,PEN19A,"Effective labour market exit age, men",men,2015,64.7
+SWE,Sweden,PEN19A,"Effective labour market exit age, men",men,2016,64.9
+SWE,Sweden,PEN19A,"Effective labour market exit age, men",men,2017,65.1
+SWE,Sweden,PEN19A,"Effective labour market exit age, men",men,2018,65.6
+SWE,Sweden,PEN19A,"Effective labour market exit age, men",men,2019,66
+SWE,Sweden,PEN19A,"Effective labour market exit age, men",men,2020,65.8
+SWE,Sweden,PEN19B,"Effective labour market exit age, women",women,1970,65.4
+SWE,Sweden,PEN19B,"Effective labour market exit age, women",women,1980,63.4
+SWE,Sweden,PEN19B,"Effective labour market exit age, women",women,1990,62
+SWE,Sweden,PEN19B,"Effective labour market exit age, women",women,2000,61.5
+SWE,Sweden,PEN19B,"Effective labour market exit age, women",women,2005,61.9
+SWE,Sweden,PEN19B,"Effective labour market exit age, women",women,2010,62.7
+SWE,Sweden,PEN19B,"Effective labour market exit age, women",women,2015,63.9
+SWE,Sweden,PEN19B,"Effective labour market exit age, women",women,2016,64.1
+SWE,Sweden,PEN19B,"Effective labour market exit age, women",women,2017,64.5
+SWE,Sweden,PEN19B,"Effective labour market exit age, women",women,2018,64.6
+SWE,Sweden,PEN19B,"Effective labour market exit age, women",women,2019,65
+SWE,Sweden,PEN19B,"Effective labour market exit age, women",women,2020,64.9
+CHE,Switzerland,PEN19A,"Effective labour market exit age, men",men,1970,69.3
+CHE,Switzerland,PEN19A,"Effective labour market exit age, men",men,1980,67.3
+CHE,Switzerland,PEN19A,"Effective labour market exit age, men",men,1990,65.3
+CHE,Switzerland,PEN19A,"Effective labour market exit age, men",men,2000,63.5
+CHE,Switzerland,PEN19A,"Effective labour market exit age, men",men,2005,63.2
+CHE,Switzerland,PEN19A,"Effective labour market exit age, men",men,2010,63.8
+CHE,Switzerland,PEN19A,"Effective labour market exit age, men",men,2015,64.3
+CHE,Switzerland,PEN19A,"Effective labour market exit age, men",men,2016,64.4
+CHE,Switzerland,PEN19A,"Effective labour market exit age, men",men,2017,64.1
+CHE,Switzerland,PEN19A,"Effective labour market exit age, men",men,2018,64.7
+CHE,Switzerland,PEN19A,"Effective labour market exit age, men",men,2019,65.4
+CHE,Switzerland,PEN19A,"Effective labour market exit age, men",men,2020,65.4
+CHE,Switzerland,PEN19B,"Effective labour market exit age, women",women,1970,70.5
+CHE,Switzerland,PEN19B,"Effective labour market exit age, women",women,1980,64.4
+CHE,Switzerland,PEN19B,"Effective labour market exit age, women",women,1990,63.8
+CHE,Switzerland,PEN19B,"Effective labour market exit age, women",women,2000,61.4
+CHE,Switzerland,PEN19B,"Effective labour market exit age, women",women,2005,63.6
+CHE,Switzerland,PEN19B,"Effective labour market exit age, women",women,2010,62.7
+CHE,Switzerland,PEN19B,"Effective labour market exit age, women",women,2015,63.3
+CHE,Switzerland,PEN19B,"Effective labour market exit age, women",women,2016,63.4
+CHE,Switzerland,PEN19B,"Effective labour market exit age, women",women,2017,63.5
+CHE,Switzerland,PEN19B,"Effective labour market exit age, women",women,2018,63.9
+CHE,Switzerland,PEN19B,"Effective labour market exit age, women",women,2019,64
+CHE,Switzerland,PEN19B,"Effective labour market exit age, women",women,2020,64.1
+TUR,Türkiye,PEN19A,"Effective labour market exit age, men",men,1970,65.8
+TUR,Türkiye,PEN19A,"Effective labour market exit age, men",men,1980,65.6
+TUR,Türkiye,PEN19A,"Effective labour market exit age, men",men,1990,61.3
+TUR,Türkiye,PEN19A,"Effective labour market exit age, men",men,2000,58.9
+TUR,Türkiye,PEN19A,"Effective labour market exit age, men",men,2005,60.5
+TUR,Türkiye,PEN19A,"Effective labour market exit age, men",men,2010,58.8
+TUR,Türkiye,PEN19A,"Effective labour market exit age, men",men,2015,60.9
+TUR,Türkiye,PEN19A,"Effective labour market exit age, men",men,2016,61.9
+TUR,Türkiye,PEN19A,"Effective labour market exit age, men",men,2017,62.1
+TUR,Türkiye,PEN19A,"Effective labour market exit age, men",men,2018,61.9
+TUR,Türkiye,PEN19A,"Effective labour market exit age, men",men,2019,61.5
+TUR,Türkiye,PEN19A,"Effective labour market exit age, men",men,2020,60.7
+TUR,Türkiye,PEN19B,"Effective labour market exit age, women",women,1970,56.1
+TUR,Türkiye,PEN19B,"Effective labour market exit age, women",women,1980,64.7
+TUR,Türkiye,PEN19B,"Effective labour market exit age, women",women,1990,59.6
+TUR,Türkiye,PEN19B,"Effective labour market exit age, women",women,2000,58.2
+TUR,Türkiye,PEN19B,"Effective labour market exit age, women",women,2005,60
+TUR,Türkiye,PEN19B,"Effective labour market exit age, women",women,2010,60.9
+TUR,Türkiye,PEN19B,"Effective labour market exit age, women",women,2015,62.3
+TUR,Türkiye,PEN19B,"Effective labour market exit age, women",women,2016,62.6
+TUR,Türkiye,PEN19B,"Effective labour market exit age, women",women,2017,63.2
+TUR,Türkiye,PEN19B,"Effective labour market exit age, women",women,2018,62.8
+TUR,Türkiye,PEN19B,"Effective labour market exit age, women",women,2019,62.6
+TUR,Türkiye,PEN19B,"Effective labour market exit age, women",women,2020,59.3
+GBR,United Kingdom,PEN19A,"Effective labour market exit age, men",men,1970,66.3
+GBR,United Kingdom,PEN19A,"Effective labour market exit age, men",men,1980,65
+GBR,United Kingdom,PEN19A,"Effective labour market exit age, men",men,1990,61.8
+GBR,United Kingdom,PEN19A,"Effective labour market exit age, men",men,2000,61.2
+GBR,United Kingdom,PEN19A,"Effective labour market exit age, men",men,2005,61.8
+GBR,United Kingdom,PEN19A,"Effective labour market exit age, men",men,2010,62.9
+GBR,United Kingdom,PEN19A,"Effective labour market exit age, men",men,2015,63
+GBR,United Kingdom,PEN19A,"Effective labour market exit age, men",men,2016,63.1
+GBR,United Kingdom,PEN19A,"Effective labour market exit age, men",men,2017,63.2
+GBR,United Kingdom,PEN19A,"Effective labour market exit age, men",men,2018,63.3
+GBR,United Kingdom,PEN19A,"Effective labour market exit age, men",men,2019,63.4
+GBR,United Kingdom,PEN19A,"Effective labour market exit age, men",men,2020,63.7
+GBR,United Kingdom,PEN19B,"Effective labour market exit age, women",women,1970,64.5
+GBR,United Kingdom,PEN19B,"Effective labour market exit age, women",women,1980,61.7
+GBR,United Kingdom,PEN19B,"Effective labour market exit age, women",women,1990,59.8
+GBR,United Kingdom,PEN19B,"Effective labour market exit age, women",women,2000,60.1
+GBR,United Kingdom,PEN19B,"Effective labour market exit age, women",women,2005,60.7
+GBR,United Kingdom,PEN19B,"Effective labour market exit age, women",women,2010,61.3
+GBR,United Kingdom,PEN19B,"Effective labour market exit age, women",women,2015,61.8
+GBR,United Kingdom,PEN19B,"Effective labour market exit age, women",women,2016,62.1
+GBR,United Kingdom,PEN19B,"Effective labour market exit age, women",women,2017,62.2
+GBR,United Kingdom,PEN19B,"Effective labour market exit age, women",women,2018,62.5
+GBR,United Kingdom,PEN19B,"Effective labour market exit age, women",women,2019,62.8
+GBR,United Kingdom,PEN19B,"Effective labour market exit age, women",women,2020,63.2
+USA,United States,PEN19A,"Effective labour market exit age, men",men,1970,65.5
+USA,United States,PEN19A,"Effective labour market exit age, men",men,1980,63.8
+USA,United States,PEN19A,"Effective labour market exit age, men",men,1990,62.4
+USA,United States,PEN19A,"Effective labour market exit age, men",men,2000,62.5
+USA,United States,PEN19A,"Effective labour market exit age, men",men,2005,62.2
+USA,United States,PEN19A,"Effective labour market exit age, men",men,2010,62.9
+USA,United States,PEN19A,"Effective labour market exit age, men",men,2015,63.3
+USA,United States,PEN19A,"Effective labour market exit age, men",men,2016,64
+USA,United States,PEN19A,"Effective labour market exit age, men",men,2017,64.6
+USA,United States,PEN19A,"Effective labour market exit age, men",men,2018,65
+USA,United States,PEN19A,"Effective labour market exit age, men",men,2019,65.3
+USA,United States,PEN19A,"Effective labour market exit age, men",men,2020,64.9
+USA,United States,PEN19B,"Effective labour market exit age, women",women,1970,65.7
+USA,United States,PEN19B,"Effective labour market exit age, women",women,1980,64.1
+USA,United States,PEN19B,"Effective labour market exit age, women",women,1990,63
+USA,United States,PEN19B,"Effective labour market exit age, women",women,2000,62.1
+USA,United States,PEN19B,"Effective labour market exit age, women",women,2005,61.3
+USA,United States,PEN19B,"Effective labour market exit age, women",women,2010,63.4
+USA,United States,PEN19B,"Effective labour market exit age, women",women,2015,62.7
+USA,United States,PEN19B,"Effective labour market exit age, women",women,2016,63.3
+USA,United States,PEN19B,"Effective labour market exit age, women",women,2017,63.8
+USA,United States,PEN19B,"Effective labour market exit age, women",women,2018,64.3
+USA,United States,PEN19B,"Effective labour market exit age, women",women,2019,64.8
+USA,United States,PEN19B,"Effective labour market exit age, women",women,2020,64.7
+CHL,Chile,PEN19A,"Effective labour market exit age, men",men,1970,65.7
+CHL,Chile,PEN19A,"Effective labour market exit age, men",men,1980,65.2
+CHL,Chile,PEN19A,"Effective labour market exit age, men",men,1990,64.2
+CHL,Chile,PEN19A,"Effective labour market exit age, men",men,2000,66
+CHL,Chile,PEN19A,"Effective labour market exit age, men",men,2005,65
+CHL,Chile,PEN19A,"Effective labour market exit age, men",men,2010,65.6
+CHL,Chile,PEN19A,"Effective labour market exit age, men",men,2015,68
+CHL,Chile,PEN19A,"Effective labour market exit age, men",men,2016,67.2
+CHL,Chile,PEN19A,"Effective labour market exit age, men",men,2017,66.6
+CHL,Chile,PEN19A,"Effective labour market exit age, men",men,2018,66.7
+CHL,Chile,PEN19A,"Effective labour market exit age, men",men,2019,67.8
+CHL,Chile,PEN19A,"Effective labour market exit age, men",men,2020,64.6
+CHL,Chile,PEN19B,"Effective labour market exit age, women",women,1970,61.5
+CHL,Chile,PEN19B,"Effective labour market exit age, women",women,1980,63.2
+CHL,Chile,PEN19B,"Effective labour market exit age, women",women,1990,68.6
+CHL,Chile,PEN19B,"Effective labour market exit age, women",women,2000,63.3
+CHL,Chile,PEN19B,"Effective labour market exit age, women",women,2005,64.2
+CHL,Chile,PEN19B,"Effective labour market exit age, women",women,2010,66.1
+CHL,Chile,PEN19B,"Effective labour market exit age, women",women,2015,65.2
+CHL,Chile,PEN19B,"Effective labour market exit age, women",women,2016,64.3
+CHL,Chile,PEN19B,"Effective labour market exit age, women",women,2017,64
+CHL,Chile,PEN19B,"Effective labour market exit age, women",women,2018,64.5
+CHL,Chile,PEN19B,"Effective labour market exit age, women",women,2019,64.7
+CHL,Chile,PEN19B,"Effective labour market exit age, women",women,2020,60.9
+EST,Estonia,PEN19A,"Effective labour market exit age, men",men,1970,66.2
+EST,Estonia,PEN19A,"Effective labour market exit age, men",men,1980,63.1
+EST,Estonia,PEN19A,"Effective labour market exit age, men",men,1990,64.5
+EST,Estonia,PEN19A,"Effective labour market exit age, men",men,2000,58.3
+EST,Estonia,PEN19A,"Effective labour market exit age, men",men,2005,60.8
+EST,Estonia,PEN19A,"Effective labour market exit age, men",men,2010,64.5
+EST,Estonia,PEN19A,"Effective labour market exit age, men",men,2015,61.8
+EST,Estonia,PEN19A,"Effective labour market exit age, men",men,2016,63.1
+EST,Estonia,PEN19A,"Effective labour market exit age, men",men,2017,64.1
+EST,Estonia,PEN19A,"Effective labour market exit age, men",men,2018,63.6
+EST,Estonia,PEN19A,"Effective labour market exit age, men",men,2019,63.4
+EST,Estonia,PEN19A,"Effective labour market exit age, men",men,2020,64.1
+EST,Estonia,PEN19B,"Effective labour market exit age, women",women,1970,62.2
+EST,Estonia,PEN19B,"Effective labour market exit age, women",women,1980,58.8
+EST,Estonia,PEN19B,"Effective labour market exit age, women",women,1990,59.7
+EST,Estonia,PEN19B,"Effective labour market exit age, women",women,2000,57.4
+EST,Estonia,PEN19B,"Effective labour market exit age, women",women,2005,61.5
+EST,Estonia,PEN19B,"Effective labour market exit age, women",women,2010,62.5
+EST,Estonia,PEN19B,"Effective labour market exit age, women",women,2015,62.6
+EST,Estonia,PEN19B,"Effective labour market exit age, women",women,2016,63.3
+EST,Estonia,PEN19B,"Effective labour market exit age, women",women,2017,63.7
+EST,Estonia,PEN19B,"Effective labour market exit age, women",women,2018,64.3
+EST,Estonia,PEN19B,"Effective labour market exit age, women",women,2019,65.2
+EST,Estonia,PEN19B,"Effective labour market exit age, women",women,2020,65.4
+ISR,Israel,PEN19A,"Effective labour market exit age, men",men,1990,64.2
+ISR,Israel,PEN19A,"Effective labour market exit age, men",men,2000,63.9
+ISR,Israel,PEN19A,"Effective labour market exit age, men",men,2005,63.2
+ISR,Israel,PEN19A,"Effective labour market exit age, men",men,2010,64.9
+ISR,Israel,PEN19A,"Effective labour market exit age, men",men,2015,66.2
+ISR,Israel,PEN19A,"Effective labour market exit age, men",men,2016,67
+ISR,Israel,PEN19A,"Effective labour market exit age, men",men,2017,67.5
+ISR,Israel,PEN19A,"Effective labour market exit age, men",men,2018,67.1
+ISR,Israel,PEN19A,"Effective labour market exit age, men",men,2019,66.1
+ISR,Israel,PEN19A,"Effective labour market exit age, men",men,2020,65.4
+ISR,Israel,PEN19B,"Effective labour market exit age, women",women,1990,62.5
+ISR,Israel,PEN19B,"Effective labour market exit age, women",women,2000,62.2
+ISR,Israel,PEN19B,"Effective labour market exit age, women",women,2005,60.5
+ISR,Israel,PEN19B,"Effective labour market exit age, women",women,2010,63.1
+ISR,Israel,PEN19B,"Effective labour market exit age, women",women,2015,65.5
+ISR,Israel,PEN19B,"Effective labour market exit age, women",women,2016,65.3
+ISR,Israel,PEN19B,"Effective labour market exit age, women",women,2017,64.2
+ISR,Israel,PEN19B,"Effective labour market exit age, women",women,2018,64.7
+ISR,Israel,PEN19B,"Effective labour market exit age, women",women,2019,64.6
+ISR,Israel,PEN19B,"Effective labour market exit age, women",women,2020,64.8
+SVN,Slovenia,PEN19A,"Effective labour market exit age, men",men,1970,63.2
+SVN,Slovenia,PEN19A,"Effective labour market exit age, men",men,1980,61.2
+SVN,Slovenia,PEN19A,"Effective labour market exit age, men",men,1990,59.7
+SVN,Slovenia,PEN19A,"Effective labour market exit age, men",men,2000,58.4
+SVN,Slovenia,PEN19A,"Effective labour market exit age, men",men,2005,58.9
+SVN,Slovenia,PEN19A,"Effective labour market exit age, men",men,2010,59.5
+SVN,Slovenia,PEN19A,"Effective labour market exit age, men",men,2015,61.2
+SVN,Slovenia,PEN19A,"Effective labour market exit age, men",men,2016,60.5
+SVN,Slovenia,PEN19A,"Effective labour market exit age, men",men,2017,60.8
+SVN,Slovenia,PEN19A,"Effective labour market exit age, men",men,2018,61.4
+SVN,Slovenia,PEN19A,"Effective labour market exit age, men",men,2019,62.9
+SVN,Slovenia,PEN19A,"Effective labour market exit age, men",men,2020,61.5
+SVN,Slovenia,PEN19B,"Effective labour market exit age, women",women,1970,62.5
+SVN,Slovenia,PEN19B,"Effective labour market exit age, women",women,1980,59.1
+SVN,Slovenia,PEN19B,"Effective labour market exit age, women",women,1990,56.7
+SVN,Slovenia,PEN19B,"Effective labour market exit age, women",women,2000,54.2
+SVN,Slovenia,PEN19B,"Effective labour market exit age, women",women,2005,56.3
+SVN,Slovenia,PEN19B,"Effective labour market exit age, women",women,2010,56.7
+SVN,Slovenia,PEN19B,"Effective labour market exit age, women",women,2015,58.8
+SVN,Slovenia,PEN19B,"Effective labour market exit age, women",women,2016,59.1
+SVN,Slovenia,PEN19B,"Effective labour market exit age, women",women,2017,59.1
+SVN,Slovenia,PEN19B,"Effective labour market exit age, women",women,2018,58.8
+SVN,Slovenia,PEN19B,"Effective labour market exit age, women",women,2019,61.4
+SVN,Slovenia,PEN19B,"Effective labour market exit age, women",women,2020,60.5
+OAVG,OECD - Average,PEN19A,"Effective labour market exit age, men",men,1970,66.3
+OAVG,OECD - Average,PEN19A,"Effective labour market exit age, men",men,1980,64.2
+OAVG,OECD - Average,PEN19A,"Effective labour market exit age, men",men,1990,62.7
+OAVG,OECD - Average,PEN19A,"Effective labour market exit age, men",men,2000,61.8
+OAVG,OECD - Average,PEN19A,"Effective labour market exit age, men",men,2005,62.1
+OAVG,OECD - Average,PEN19A,"Effective labour market exit age, men",men,2010,62.5
+OAVG,OECD - Average,PEN19A,"Effective labour market exit age, men",men,2015,63.2
+OAVG,OECD - Average,PEN19A,"Effective labour market exit age, men",men,2016,63.4
+OAVG,OECD - Average,PEN19A,"Effective labour market exit age, men",men,2017,63.7
+OAVG,OECD - Average,PEN19A,"Effective labour market exit age, men",men,2018,63.9
+OAVG,OECD - Average,PEN19A,"Effective labour market exit age, men",men,2019,64
+OAVG,OECD - Average,PEN19A,"Effective labour market exit age, men",men,2020,63.8
+OAVG,OECD - Average,PEN19B,"Effective labour market exit age, women",women,1970,64.9
+OAVG,OECD - Average,PEN19B,"Effective labour market exit age, women",women,1980,62.9
+OAVG,OECD - Average,PEN19B,"Effective labour market exit age, women",women,1990,61.1
+OAVG,OECD - Average,PEN19B,"Effective labour market exit age, women",women,2000,59.7
+OAVG,OECD - Average,PEN19B,"Effective labour market exit age, women",women,2005,60.8
+OAVG,OECD - Average,PEN19B,"Effective labour market exit age, women",women,2010,61.3
+OAVG,OECD - Average,PEN19B,"Effective labour market exit age, women",women,2015,62
+OAVG,OECD - Average,PEN19B,"Effective labour market exit age, women",women,2016,62.1
+OAVG,OECD - Average,PEN19B,"Effective labour market exit age, women",women,2017,62.2
+OAVG,OECD - Average,PEN19B,"Effective labour market exit age, women",women,2018,62.4
+OAVG,OECD - Average,PEN19B,"Effective labour market exit age, women",women,2019,62.7
+OAVG,OECD - Average,PEN19B,"Effective labour market exit age, women",women,2020,62.4
+LVA,Latvia,PEN19A,"Effective labour market exit age, men",men,2000,60.1
+LVA,Latvia,PEN19A,"Effective labour market exit age, men",men,2005,63.1
+LVA,Latvia,PEN19A,"Effective labour market exit age, men",men,2010,63.4
+LVA,Latvia,PEN19A,"Effective labour market exit age, men",men,2015,60.6
+LVA,Latvia,PEN19A,"Effective labour market exit age, men",men,2016,60.8
+LVA,Latvia,PEN19A,"Effective labour market exit age, men",men,2017,62
+LVA,Latvia,PEN19A,"Effective labour market exit age, men",men,2018,64.1
+LVA,Latvia,PEN19A,"Effective labour market exit age, men",men,2019,63
+LVA,Latvia,PEN19A,"Effective labour market exit age, men",men,2020,66.3
+LVA,Latvia,PEN19B,"Effective labour market exit age, women",women,2000,58.2
+LVA,Latvia,PEN19B,"Effective labour market exit age, women",women,2005,57.6
+LVA,Latvia,PEN19B,"Effective labour market exit age, women",women,2010,62.7
+LVA,Latvia,PEN19B,"Effective labour market exit age, women",women,2015,59.9
+LVA,Latvia,PEN19B,"Effective labour market exit age, women",women,2016,60.1
+LVA,Latvia,PEN19B,"Effective labour market exit age, women",women,2017,60.8
+LVA,Latvia,PEN19B,"Effective labour market exit age, women",women,2018,63.4
+LVA,Latvia,PEN19B,"Effective labour market exit age, women",women,2019,62.9
+LVA,Latvia,PEN19B,"Effective labour market exit age, women",women,2020,64.5
+ARG,Argentina,PEN19A,"Effective labour market exit age, men",men,1990,63.9
+ARG,Argentina,PEN19A,"Effective labour market exit age, men",men,2000,67
+ARG,Argentina,PEN19A,"Effective labour market exit age, men",men,2005,65.7
+ARG,Argentina,PEN19A,"Effective labour market exit age, men",men,2010,66
+ARG,Argentina,PEN19A,"Effective labour market exit age, men",men,2015,65.2
+ARG,Argentina,PEN19A,"Effective labour market exit age, men",men,2016,65.1
+ARG,Argentina,PEN19A,"Effective labour market exit age, men",men,2017,64.2
+ARG,Argentina,PEN19A,"Effective labour market exit age, men",men,2018,64.1
+ARG,Argentina,PEN19A,"Effective labour market exit age, men",men,2019,64.5
+ARG,Argentina,PEN19A,"Effective labour market exit age, men",men,2020,62.4
+ARG,Argentina,PEN19B,"Effective labour market exit age, women",women,1990,64.6
+ARG,Argentina,PEN19B,"Effective labour market exit age, women",women,2000,68.9
+ARG,Argentina,PEN19B,"Effective labour market exit age, women",women,2005,63.7
+ARG,Argentina,PEN19B,"Effective labour market exit age, women",women,2010,63
+ARG,Argentina,PEN19B,"Effective labour market exit age, women",women,2015,62.5
+ARG,Argentina,PEN19B,"Effective labour market exit age, women",women,2016,62.1
+ARG,Argentina,PEN19B,"Effective labour market exit age, women",women,2017,62.3
+ARG,Argentina,PEN19B,"Effective labour market exit age, women",women,2018,63.2
+ARG,Argentina,PEN19B,"Effective labour market exit age, women",women,2019,63.9
+ARG,Argentina,PEN19B,"Effective labour market exit age, women",women,2020,62.8
+BRA,Brazil,PEN19A,"Effective labour market exit age, men",men,1970,67.9
+BRA,Brazil,PEN19A,"Effective labour market exit age, men",men,1980,66
+BRA,Brazil,PEN19A,"Effective labour market exit age, men",men,1990,64.8
+BRA,Brazil,PEN19A,"Effective labour market exit age, men",men,2000,63
+BRA,Brazil,PEN19A,"Effective labour market exit age, men",men,2005,64.2
+BRA,Brazil,PEN19A,"Effective labour market exit age, men",men,2010,64.6
+BRA,Brazil,PEN19A,"Effective labour market exit age, men",men,2015,64.1
+BRA,Brazil,PEN19A,"Effective labour market exit age, men",men,2016,64.8
+BRA,Brazil,PEN19A,"Effective labour market exit age, men",men,2017,63.6
+BRA,Brazil,PEN19A,"Effective labour market exit age, men",men,2018,63.4
+BRA,Brazil,PEN19A,"Effective labour market exit age, men",men,2019,62.8
+BRA,Brazil,PEN19A,"Effective labour market exit age, men",men,2020,62
+BRA,Brazil,PEN19B,"Effective labour market exit age, women",women,1970,70.6
+BRA,Brazil,PEN19B,"Effective labour market exit age, women",women,1980,71.1
+BRA,Brazil,PEN19B,"Effective labour market exit age, women",women,1990,65.7
+BRA,Brazil,PEN19B,"Effective labour market exit age, women",women,2000,60.2
+BRA,Brazil,PEN19B,"Effective labour market exit age, women",women,2005,62.2
+BRA,Brazil,PEN19B,"Effective labour market exit age, women",women,2010,60.5
+BRA,Brazil,PEN19B,"Effective labour market exit age, women",women,2015,60.4
+BRA,Brazil,PEN19B,"Effective labour market exit age, women",women,2016,61.4
+BRA,Brazil,PEN19B,"Effective labour market exit age, women",women,2017,61.2
+BRA,Brazil,PEN19B,"Effective labour market exit age, women",women,2018,61.4
+BRA,Brazil,PEN19B,"Effective labour market exit age, women",women,2019,61.4
+BRA,Brazil,PEN19B,"Effective labour market exit age, women",women,2020,59.2
+CHN,China (People's Republic of),PEN19A,"Effective labour market exit age, men",men,1990,64.1
+CHN,China (People's Republic of),PEN19A,"Effective labour market exit age, men",men,2000,63
+CHN,China (People's Republic of),PEN19A,"Effective labour market exit age, men",men,2005,65.3
+CHN,China (People's Republic of),PEN19A,"Effective labour market exit age, men",men,2010,63.9
+CHN,China (People's Republic of),PEN19A,"Effective labour market exit age, men",men,2015,63.5
+CHN,China (People's Republic of),PEN19A,"Effective labour market exit age, men",men,2016,64.2
+CHN,China (People's Republic of),PEN19A,"Effective labour market exit age, men",men,2017,64.4
+CHN,China (People's Republic of),PEN19A,"Effective labour market exit age, men",men,2018,64.5
+CHN,China (People's Republic of),PEN19A,"Effective labour market exit age, men",men,2019,64.4
+CHN,China (People's Republic of),PEN19A,"Effective labour market exit age, men",men,2020,65.5
+CHN,China (People's Republic of),PEN19B,"Effective labour market exit age, women",women,1990,56.5
+CHN,China (People's Republic of),PEN19B,"Effective labour market exit age, women",women,2000,56.3
+CHN,China (People's Republic of),PEN19B,"Effective labour market exit age, women",women,2005,60
+CHN,China (People's Republic of),PEN19B,"Effective labour market exit age, women",women,2010,59.3
+CHN,China (People's Republic of),PEN19B,"Effective labour market exit age, women",women,2015,59.1
+CHN,China (People's Republic of),PEN19B,"Effective labour market exit age, women",women,2016,59.5
+CHN,China (People's Republic of),PEN19B,"Effective labour market exit age, women",women,2017,59.6
+CHN,China (People's Republic of),PEN19B,"Effective labour market exit age, women",women,2018,59.7
+CHN,China (People's Republic of),PEN19B,"Effective labour market exit age, women",women,2019,59.7
+CHN,China (People's Republic of),PEN19B,"Effective labour market exit age, women",women,2020,60.6
+IND,India,PEN19A,"Effective labour market exit age, men",men,1990,69.3
+IND,India,PEN19A,"Effective labour market exit age, men",men,2000,68.4
+IND,India,PEN19A,"Effective labour market exit age, men",men,2005,67.6
+IND,India,PEN19A,"Effective labour market exit age, men",men,2010,68.7
+IND,India,PEN19A,"Effective labour market exit age, men",men,2015,66.7
+IND,India,PEN19A,"Effective labour market exit age, men",men,2016,66.9
+IND,India,PEN19A,"Effective labour market exit age, men",men,2017,67.2
+IND,India,PEN19A,"Effective labour market exit age, men",men,2018,67
+IND,India,PEN19A,"Effective labour market exit age, men",men,2019,66.9
+IND,India,PEN19A,"Effective labour market exit age, men",men,2020,67.3
+IND,India,PEN19B,"Effective labour market exit age, women",women,1990,63.7
+IND,India,PEN19B,"Effective labour market exit age, women",women,2000,68.5
+IND,India,PEN19B,"Effective labour market exit age, women",women,2005,65.6
+IND,India,PEN19B,"Effective labour market exit age, women",women,2010,59.1
+IND,India,PEN19B,"Effective labour market exit age, women",women,2015,59.4
+IND,India,PEN19B,"Effective labour market exit age, women",women,2016,59.8
+IND,India,PEN19B,"Effective labour market exit age, women",women,2017,60.4
+IND,India,PEN19B,"Effective labour market exit age, women",women,2018,60.2
+IND,India,PEN19B,"Effective labour market exit age, women",women,2019,60.6
+IND,India,PEN19B,"Effective labour market exit age, women",women,2020,67.2
+IDN,Indonesia,PEN19A,"Effective labour market exit age, men",men,1990,70.3
+IDN,Indonesia,PEN19A,"Effective labour market exit age, men",men,2000,70.5
+IDN,Indonesia,PEN19A,"Effective labour market exit age, men",men,2005,70.7
+IDN,Indonesia,PEN19A,"Effective labour market exit age, men",men,2010,68
+IDN,Indonesia,PEN19A,"Effective labour market exit age, men",men,2015,70.9
+IDN,Indonesia,PEN19A,"Effective labour market exit age, men",men,2016,68.6
+IDN,Indonesia,PEN19A,"Effective labour market exit age, men",men,2017,67.9
+IDN,Indonesia,PEN19A,"Effective labour market exit age, men",men,2018,67.9
+IDN,Indonesia,PEN19A,"Effective labour market exit age, men",men,2019,68.7
+IDN,Indonesia,PEN19A,"Effective labour market exit age, men",men,2020,68.7
+IDN,Indonesia,PEN19B,"Effective labour market exit age, women",women,1990,70.8
+IDN,Indonesia,PEN19B,"Effective labour market exit age, women",women,2000,71
+IDN,Indonesia,PEN19B,"Effective labour market exit age, women",women,2005,63.9
+IDN,Indonesia,PEN19B,"Effective labour market exit age, women",women,2010,71.3
+IDN,Indonesia,PEN19B,"Effective labour market exit age, women",women,2015,68.1
+IDN,Indonesia,PEN19B,"Effective labour market exit age, women",women,2016,67.3
+IDN,Indonesia,PEN19B,"Effective labour market exit age, women",women,2017,67.7
+IDN,Indonesia,PEN19B,"Effective labour market exit age, women",women,2018,67.9
+IDN,Indonesia,PEN19B,"Effective labour market exit age, women",women,2019,68.6
+IDN,Indonesia,PEN19B,"Effective labour market exit age, women",women,2020,69.2
+LTU,Lithuania,PEN19A,"Effective labour market exit age, men",men,2000,60.2
+LTU,Lithuania,PEN19A,"Effective labour market exit age, men",men,2005,61.9
+LTU,Lithuania,PEN19A,"Effective labour market exit age, men",men,2010,61.4
+LTU,Lithuania,PEN19A,"Effective labour market exit age, men",men,2015,62.2
+LTU,Lithuania,PEN19A,"Effective labour market exit age, men",men,2016,61.3
+LTU,Lithuania,PEN19A,"Effective labour market exit age, men",men,2017,61.7
+LTU,Lithuania,PEN19A,"Effective labour market exit age, men",men,2018,62.2
+LTU,Lithuania,PEN19A,"Effective labour market exit age, men",men,2019,62.6
+LTU,Lithuania,PEN19A,"Effective labour market exit age, men",men,2020,63.4
+LTU,Lithuania,PEN19B,"Effective labour market exit age, women",women,2000,57.3
+LTU,Lithuania,PEN19B,"Effective labour market exit age, women",women,2005,59.6
+LTU,Lithuania,PEN19B,"Effective labour market exit age, women",women,2010,59.9
+LTU,Lithuania,PEN19B,"Effective labour market exit age, women",women,2015,61.6
+LTU,Lithuania,PEN19B,"Effective labour market exit age, women",women,2016,60.5
+LTU,Lithuania,PEN19B,"Effective labour market exit age, women",women,2017,61.6
+LTU,Lithuania,PEN19B,"Effective labour market exit age, women",women,2018,62.6
+LTU,Lithuania,PEN19B,"Effective labour market exit age, women",women,2019,62.7
+LTU,Lithuania,PEN19B,"Effective labour market exit age, women",women,2020,63
+RUS,Russia,PEN19A,"Effective labour market exit age, men",men,2000,59.7
+RUS,Russia,PEN19A,"Effective labour market exit age, men",men,2005,61.1
+RUS,Russia,PEN19A,"Effective labour market exit age, men",men,2010,62.5
+RUS,Russia,PEN19A,"Effective labour market exit age, men",men,2015,62
+RUS,Russia,PEN19A,"Effective labour market exit age, men",men,2016,62.3
+RUS,Russia,PEN19A,"Effective labour market exit age, men",men,2017,62
+RUS,Russia,PEN19A,"Effective labour market exit age, men",men,2018,62.4
+RUS,Russia,PEN19A,"Effective labour market exit age, men",men,2019,61.8
+RUS,Russia,PEN19A,"Effective labour market exit age, men",men,2020,62
+RUS,Russia,PEN19B,"Effective labour market exit age, women",women,2000,55.7
+RUS,Russia,PEN19B,"Effective labour market exit age, women",women,2005,58.4
+RUS,Russia,PEN19B,"Effective labour market exit age, women",women,2010,59.2
+RUS,Russia,PEN19B,"Effective labour market exit age, women",women,2015,59.1
+RUS,Russia,PEN19B,"Effective labour market exit age, women",women,2016,59.4
+RUS,Russia,PEN19B,"Effective labour market exit age, women",women,2017,59.2
+RUS,Russia,PEN19B,"Effective labour market exit age, women",women,2018,59.3
+RUS,Russia,PEN19B,"Effective labour market exit age, women",women,2019,59.3
+RUS,Russia,PEN19B,"Effective labour market exit age, women",women,2020,59.8
+SAU,Saudi Arabia,PEN19A,"Effective labour market exit age, men",men,2000,66.3
+SAU,Saudi Arabia,PEN19A,"Effective labour market exit age, men",men,2005,63.9
+SAU,Saudi Arabia,PEN19A,"Effective labour market exit age, men",men,2010,63.1
+SAU,Saudi Arabia,PEN19A,"Effective labour market exit age, men",men,2015,65.7
+SAU,Saudi Arabia,PEN19A,"Effective labour market exit age, men",men,2016,64.6
+SAU,Saudi Arabia,PEN19A,"Effective labour market exit age, men",men,2017,63.7
+SAU,Saudi Arabia,PEN19A,"Effective labour market exit age, men",men,2018,62.9
+SAU,Saudi Arabia,PEN19A,"Effective labour market exit age, men",men,2019,62.8
+SAU,Saudi Arabia,PEN19A,"Effective labour market exit age, men",men,2020,58.9
+SAU,Saudi Arabia,PEN19B,"Effective labour market exit age, women",women,2000,52.2
+SAU,Saudi Arabia,PEN19B,"Effective labour market exit age, women",women,2005,52.3
+SAU,Saudi Arabia,PEN19B,"Effective labour market exit age, women",women,2010,52.8
+SAU,Saudi Arabia,PEN19B,"Effective labour market exit age, women",women,2015,52
+SAU,Saudi Arabia,PEN19B,"Effective labour market exit age, women",women,2016,51.8
+SAU,Saudi Arabia,PEN19B,"Effective labour market exit age, women",women,2017,52
+SAU,Saudi Arabia,PEN19B,"Effective labour market exit age, women",women,2018,52.7
+SAU,Saudi Arabia,PEN19B,"Effective labour market exit age, women",women,2019,51.1
+ZAF,South Africa,PEN19A,"Effective labour market exit age, men",men,1980,66.2
+ZAF,South Africa,PEN19A,"Effective labour market exit age, men",men,1990,67.3
+ZAF,South Africa,PEN19A,"Effective labour market exit age, men",men,2000,62.2
+ZAF,South Africa,PEN19A,"Effective labour market exit age, men",men,2005,64.3
+ZAF,South Africa,PEN19A,"Effective labour market exit age, men",men,2010,63.1
+ZAF,South Africa,PEN19A,"Effective labour market exit age, men",men,2015,61.5
+ZAF,South Africa,PEN19A,"Effective labour market exit age, men",men,2016,61.1
+ZAF,South Africa,PEN19A,"Effective labour market exit age, men",men,2017,61.7
+ZAF,South Africa,PEN19A,"Effective labour market exit age, men",men,2018,61.8
+ZAF,South Africa,PEN19A,"Effective labour market exit age, men",men,2019,62.1
+ZAF,South Africa,PEN19A,"Effective labour market exit age, men",men,2020,60.4
+ZAF,South Africa,PEN19B,"Effective labour market exit age, women",women,1980,62
+ZAF,South Africa,PEN19B,"Effective labour market exit age, women",women,1990,65.4
+ZAF,South Africa,PEN19B,"Effective labour market exit age, women",women,2000,62.6
+ZAF,South Africa,PEN19B,"Effective labour market exit age, women",women,2005,61.1
+ZAF,South Africa,PEN19B,"Effective labour market exit age, women",women,2010,59.5
+ZAF,South Africa,PEN19B,"Effective labour market exit age, women",women,2015,60.5
+ZAF,South Africa,PEN19B,"Effective labour market exit age, women",women,2016,60.4
+ZAF,South Africa,PEN19B,"Effective labour market exit age, women",women,2017,60.5
+ZAF,South Africa,PEN19B,"Effective labour market exit age, women",women,2018,60.7
+ZAF,South Africa,PEN19B,"Effective labour market exit age, women",women,2019,60.9
+ZAF,South Africa,PEN19B,"Effective labour market exit age, women",women,2020,56
+BGR,Bulgaria,PEN19A,"Effective labour market exit age, men",men,1970,64.4
+BGR,Bulgaria,PEN19A,"Effective labour market exit age, men",men,1980,60.8
+BGR,Bulgaria,PEN19A,"Effective labour market exit age, men",men,1990,61.1
+BGR,Bulgaria,PEN19A,"Effective labour market exit age, men",men,2000,57.2
+BGR,Bulgaria,PEN19A,"Effective labour market exit age, men",men,2005,57.8
+BGR,Bulgaria,PEN19A,"Effective labour market exit age, men",men,2010,61.9
+BGR,Bulgaria,PEN19A,"Effective labour market exit age, men",men,2015,61.6
+BGR,Bulgaria,PEN19A,"Effective labour market exit age, men",men,2016,62.2
+BGR,Bulgaria,PEN19A,"Effective labour market exit age, men",men,2017,63.3
+BGR,Bulgaria,PEN19A,"Effective labour market exit age, men",men,2018,64
+BGR,Bulgaria,PEN19A,"Effective labour market exit age, men",men,2019,64.8
+BGR,Bulgaria,PEN19A,"Effective labour market exit age, men",men,2020,64.5
+BGR,Bulgaria,PEN19B,"Effective labour market exit age, women",women,1970,58.2
+BGR,Bulgaria,PEN19B,"Effective labour market exit age, women",women,1980,55.4
+BGR,Bulgaria,PEN19B,"Effective labour market exit age, women",women,1990,56.9
+BGR,Bulgaria,PEN19B,"Effective labour market exit age, women",women,2000,54.4
+BGR,Bulgaria,PEN19B,"Effective labour market exit age, women",women,2005,54.7
+BGR,Bulgaria,PEN19B,"Effective labour market exit age, women",women,2010,59.9
+BGR,Bulgaria,PEN19B,"Effective labour market exit age, women",women,2015,60.6
+BGR,Bulgaria,PEN19B,"Effective labour market exit age, women",women,2016,60.3
+BGR,Bulgaria,PEN19B,"Effective labour market exit age, women",women,2017,60.6
+BGR,Bulgaria,PEN19B,"Effective labour market exit age, women",women,2018,61
+BGR,Bulgaria,PEN19B,"Effective labour market exit age, women",women,2019,61.8
+BGR,Bulgaria,PEN19B,"Effective labour market exit age, women",women,2020,61.7
+COL,Colombia,PEN19A,"Effective labour market exit age, men",men,2000,69.7
+COL,Colombia,PEN19A,"Effective labour market exit age, men",men,2005,69
+COL,Colombia,PEN19A,"Effective labour market exit age, men",men,2010,69.4
+COL,Colombia,PEN19A,"Effective labour market exit age, men",men,2015,68.9
+COL,Colombia,PEN19A,"Effective labour market exit age, men",men,2016,69.5
+COL,Colombia,PEN19A,"Effective labour market exit age, men",men,2017,68.6
+COL,Colombia,PEN19A,"Effective labour market exit age, men",men,2018,68.8
+COL,Colombia,PEN19A,"Effective labour market exit age, men",men,2019,68.9
+COL,Colombia,PEN19A,"Effective labour market exit age, men",men,2020,66.7
+COL,Colombia,PEN19B,"Effective labour market exit age, women",women,2010,62.4
+COL,Colombia,PEN19B,"Effective labour market exit age, women",women,2015,64.3
+COL,Colombia,PEN19B,"Effective labour market exit age, women",women,2016,62.8
+COL,Colombia,PEN19B,"Effective labour market exit age, women",women,2017,62.2
+COL,Colombia,PEN19B,"Effective labour market exit age, women",women,2018,62.4
+COL,Colombia,PEN19B,"Effective labour market exit age, women",women,2019,62.3
+COL,Colombia,PEN19B,"Effective labour market exit age, women",women,2020,60.3
+CRI,Costa Rica,PEN19A,"Effective labour market exit age, men",men,1990,63.4
+CRI,Costa Rica,PEN19A,"Effective labour market exit age, men",men,2000,66.8
+CRI,Costa Rica,PEN19A,"Effective labour market exit age, men",men,2005,66.4
+CRI,Costa Rica,PEN19A,"Effective labour market exit age, men",men,2010,67.5
+CRI,Costa Rica,PEN19A,"Effective labour market exit age, men",men,2015,64.6
+CRI,Costa Rica,PEN19A,"Effective labour market exit age, men",men,2016,64.1
+CRI,Costa Rica,PEN19A,"Effective labour market exit age, men",men,2017,66.9
+CRI,Costa Rica,PEN19A,"Effective labour market exit age, men",men,2018,67
+CRI,Costa Rica,PEN19A,"Effective labour market exit age, men",men,2019,66.9
+CRI,Costa Rica,PEN19A,"Effective labour market exit age, men",men,2020,66.7
+CRI,Costa Rica,PEN19B,"Effective labour market exit age, women",women,1990,56.4
+CRI,Costa Rica,PEN19B,"Effective labour market exit age, women",women,2000,59.9
+CRI,Costa Rica,PEN19B,"Effective labour market exit age, women",women,2005,67.5
+CRI,Costa Rica,PEN19B,"Effective labour market exit age, women",women,2010,58.5
+CRI,Costa Rica,PEN19B,"Effective labour market exit age, women",women,2015,62.8
+CRI,Costa Rica,PEN19B,"Effective labour market exit age, women",women,2016,60.6
+CRI,Costa Rica,PEN19B,"Effective labour market exit age, women",women,2017,58.5
+CRI,Costa Rica,PEN19B,"Effective labour market exit age, women",women,2018,58.9
+CRI,Costa Rica,PEN19B,"Effective labour market exit age, women",women,2019,62.3
+CRI,Costa Rica,PEN19B,"Effective labour market exit age, women",women,2020,61.7
+HRV,Croatia,PEN19A,"Effective labour market exit age, men",men,2000,58.8
+HRV,Croatia,PEN19A,"Effective labour market exit age, men",men,2005,59.2
+HRV,Croatia,PEN19A,"Effective labour market exit age, men",men,2010,59.3
+HRV,Croatia,PEN19A,"Effective labour market exit age, men",men,2015,61.2
+HRV,Croatia,PEN19A,"Effective labour market exit age, men",men,2016,60.4
+HRV,Croatia,PEN19A,"Effective labour market exit age, men",men,2017,61.7
+HRV,Croatia,PEN19A,"Effective labour market exit age, men",men,2018,60.4
+HRV,Croatia,PEN19A,"Effective labour market exit age, men",men,2019,60.2
+HRV,Croatia,PEN19A,"Effective labour market exit age, men",men,2020,61.1
+HRV,Croatia,PEN19B,"Effective labour market exit age, women",women,2000,55.8
+HRV,Croatia,PEN19B,"Effective labour market exit age, women",women,2005,55.2
+HRV,Croatia,PEN19B,"Effective labour market exit age, women",women,2010,57.1
+HRV,Croatia,PEN19B,"Effective labour market exit age, women",women,2015,60.7
+HRV,Croatia,PEN19B,"Effective labour market exit age, women",women,2016,60.2
+HRV,Croatia,PEN19B,"Effective labour market exit age, women",women,2017,59.1
+HRV,Croatia,PEN19B,"Effective labour market exit age, women",women,2018,60.1
+HRV,Croatia,PEN19B,"Effective labour market exit age, women",women,2019,57.1
+HRV,Croatia,PEN19B,"Effective labour market exit age, women",women,2020,58
+CYP,Cyprus,PEN19A,"Effective labour market exit age, men",men,1990,67.6
+CYP,Cyprus,PEN19A,"Effective labour market exit age, men",men,2000,62.2
+CYP,Cyprus,PEN19A,"Effective labour market exit age, men",men,2005,63.8
+CYP,Cyprus,PEN19A,"Effective labour market exit age, men",men,2010,64.1
+CYP,Cyprus,PEN19A,"Effective labour market exit age, men",men,2015,64
+CYP,Cyprus,PEN19A,"Effective labour market exit age, men",men,2016,64.4
+CYP,Cyprus,PEN19A,"Effective labour market exit age, men",men,2017,63.4
+CYP,Cyprus,PEN19A,"Effective labour market exit age, men",men,2018,62.9
+CYP,Cyprus,PEN19A,"Effective labour market exit age, men",men,2019,62.6
+CYP,Cyprus,PEN19A,"Effective labour market exit age, men",men,2020,64.6
+CYP,Cyprus,PEN19B,"Effective labour market exit age, women",women,1990,63.2
+CYP,Cyprus,PEN19B,"Effective labour market exit age, women",women,2000,60.4
+CYP,Cyprus,PEN19B,"Effective labour market exit age, women",women,2005,61.2
+CYP,Cyprus,PEN19B,"Effective labour market exit age, women",women,2010,58.7
+CYP,Cyprus,PEN19B,"Effective labour market exit age, women",women,2015,61.5
+CYP,Cyprus,PEN19B,"Effective labour market exit age, women",women,2016,60.1
+CYP,Cyprus,PEN19B,"Effective labour market exit age, women",women,2017,60
+CYP,Cyprus,PEN19B,"Effective labour market exit age, women",women,2018,61.1
+CYP,Cyprus,PEN19B,"Effective labour market exit age, women",women,2019,60.4
+CYP,Cyprus,PEN19B,"Effective labour market exit age, women",women,2020,59.4
+MLT,Malta,PEN19A,"Effective labour market exit age, men",men,1990,60.2
+MLT,Malta,PEN19A,"Effective labour market exit age, men",men,2000,61.3
+MLT,Malta,PEN19A,"Effective labour market exit age, men",men,2005,59
+MLT,Malta,PEN19A,"Effective labour market exit age, men",men,2010,60.5
+MLT,Malta,PEN19A,"Effective labour market exit age, men",men,2015,60.6
+MLT,Malta,PEN19A,"Effective labour market exit age, men",men,2016,60.9
+MLT,Malta,PEN19A,"Effective labour market exit age, men",men,2017,61.6
+MLT,Malta,PEN19A,"Effective labour market exit age, men",men,2018,62.7
+MLT,Malta,PEN19A,"Effective labour market exit age, men",men,2019,61.9
+MLT,Malta,PEN19A,"Effective labour market exit age, men",men,2020,62.4
+MLT,Malta,PEN19B,"Effective labour market exit age, women",women,1990,60.7
+MLT,Malta,PEN19B,"Effective labour market exit age, women",women,2000,62.2
+MLT,Malta,PEN19B,"Effective labour market exit age, women",women,2005,56.6
+MLT,Malta,PEN19B,"Effective labour market exit age, women",women,2010,60.8
+MLT,Malta,PEN19B,"Effective labour market exit age, women",women,2015,62.2
+MLT,Malta,PEN19B,"Effective labour market exit age, women",women,2016,61
+MLT,Malta,PEN19B,"Effective labour market exit age, women",women,2017,62.6
+MLT,Malta,PEN19B,"Effective labour market exit age, women",women,2018,63.3
+MLT,Malta,PEN19B,"Effective labour market exit age, women",women,2019,64.4
+MLT,Malta,PEN19B,"Effective labour market exit age, women",women,2020,62.4
+ROU,Romania,PEN19A,"Effective labour market exit age, men",men,1970,66
+ROU,Romania,PEN19A,"Effective labour market exit age, men",men,1980,62.6
+ROU,Romania,PEN19A,"Effective labour market exit age, men",men,1990,60.2
+ROU,Romania,PEN19A,"Effective labour market exit age, men",men,2000,61.2
+ROU,Romania,PEN19A,"Effective labour market exit age, men",men,2005,64.6
+ROU,Romania,PEN19A,"Effective labour market exit age, men",men,2010,62.7
+ROU,Romania,PEN19A,"Effective labour market exit age, men",men,2015,63
+ROU,Romania,PEN19A,"Effective labour market exit age, men",men,2016,64.7
+ROU,Romania,PEN19A,"Effective labour market exit age, men",men,2017,64.8
+ROU,Romania,PEN19A,"Effective labour market exit age, men",men,2018,65.3
+ROU,Romania,PEN19A,"Effective labour market exit age, men",men,2019,66
+ROU,Romania,PEN19A,"Effective labour market exit age, men",men,2020,65.4
+ROU,Romania,PEN19B,"Effective labour market exit age, women",women,1970,63.4
+ROU,Romania,PEN19B,"Effective labour market exit age, women",women,1980,60
+ROU,Romania,PEN19B,"Effective labour market exit age, women",women,1990,57.7
+ROU,Romania,PEN19B,"Effective labour market exit age, women",women,2000,58.7
+ROU,Romania,PEN19B,"Effective labour market exit age, women",women,2005,62.4
+ROU,Romania,PEN19B,"Effective labour market exit age, women",women,2010,59.9
+ROU,Romania,PEN19B,"Effective labour market exit age, women",women,2015,61.3
+ROU,Romania,PEN19B,"Effective labour market exit age, women",women,2016,62.4
+ROU,Romania,PEN19B,"Effective labour market exit age, women",women,2017,63.5
+ROU,Romania,PEN19B,"Effective labour market exit age, women",women,2018,63.4
+ROU,Romania,PEN19B,"Effective labour market exit age, women",women,2019,63.9
+ROU,Romania,PEN19B,"Effective labour market exit age, women",women,2020,64.6
+EU27,European Union (27 countries),PEN19A,"Effective labour market exit age, men",men,1970,65.5
+EU27,European Union (27 countries),PEN19A,"Effective labour market exit age, men",men,1980,62.7
+EU27,European Union (27 countries),PEN19A,"Effective labour market exit age, men",men,1990,61.6
+EU27,European Union (27 countries),PEN19A,"Effective labour market exit age, men",men,2000,60.5
+EU27,European Union (27 countries),PEN19A,"Effective labour market exit age, men",men,2005,61
+EU27,European Union (27 countries),PEN19A,"Effective labour market exit age, men",men,2010,61.6
+EU27,European Union (27 countries),PEN19A,"Effective labour market exit age, men",men,2015,62
+EU27,European Union (27 countries),PEN19A,"Effective labour market exit age, men",men,2016,62.3
+EU27,European Union (27 countries),PEN19A,"Effective labour market exit age, men",men,2017,62.6
+EU27,European Union (27 countries),PEN19A,"Effective labour market exit age, men",men,2018,62.9
+EU27,European Union (27 countries),PEN19A,"Effective labour market exit age, men",men,2019,63.1
+EU27,European Union (27 countries),PEN19A,"Effective labour market exit age, men",men,2020,63.1
